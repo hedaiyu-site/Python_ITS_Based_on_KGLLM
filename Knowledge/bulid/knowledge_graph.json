@@ -1,0 +1,6198 @@
+{
+  "nodes": [
+    {
+      "id": 1,
+      "name": "Python 3 教程",
+      "type": "Topic",
+      "source": "Python 3 教程.md"
+    },
+    {
+      "id": 2,
+      "name": "[Python 3 教程](https://www.runoob.com/python3/python3-tutorial.html)",
+      "type": "Subtopic",
+      "source": "Python 3 教程.md"
+    },
+    {
+      "id": 3,
+      "name": "如果运行失败，您可以将pip替换成pip3再运行",
+      "type": "Topic",
+      "source": "Python AI  绘画.md"
+    },
+    {
+      "id": 4,
+      "name": "[Python AI  绘画](https://www.runoob.com/python3/python-ai-draw.html)",
+      "type": "Subtopic",
+      "source": "Python AI  绘画.md"
+    },
+    {
+      "id": 5,
+      "name": "国风3",
+      "type": "Keyword",
+      "source": "Python AI  绘画.md"
+    },
+    {
+      "id": 6,
+      "name": "Python asyncio 模块",
+      "type": "Topic",
+      "source": "Python asyncio 模块.md"
+    },
+    {
+      "id": 7,
+      "name": "[Python asyncio 模块](https://www.runoob.com/python3/python-asyncio.html)",
+      "type": "Subtopic",
+      "source": "Python asyncio 模块.md"
+    },
+    {
+      "id": 8,
+      "name": "asyncio",
+      "type": "Module",
+      "source": "Python asyncio 模块.md"
+    },
+    {
+      "id": 9,
+      "name": "网络请求",
+      "type": "Keyword",
+      "source": "Python asyncio 模块.md"
+    },
+    {
+      "id": 10,
+      "name": "数据库操作",
+      "type": "Keyword",
+      "source": "Python asyncio 模块.md"
+    },
+    {
+      "id": 11,
+      "name": "实时数据处理",
+      "type": "Keyword",
+      "source": "Python asyncio 模块.md"
+    },
+    {
+      "id": 12,
+      "name": "注意事项",
+      "type": "Keyword",
+      "source": "Python asyncio 模块.md"
+    },
+    {
+      "id": 13,
+      "name": "Python版本",
+      "type": "Keyword",
+      "source": "Python asyncio 模块.md"
+    },
+    {
+      "id": 14,
+      "name": "阻塞操作",
+      "type": "Keyword",
+      "source": "Python asyncio 模块.md"
+    },
+    {
+      "id": 15,
+      "name": "取消任务",
+      "type": "Keyword",
+      "source": "Python asyncio 模块.md"
+    },
+    {
+      "id": 16,
+      "name": "CGI处理模块",
+      "type": "Topic",
+      "source": "Python CGI编程.md"
+    },
+    {
+      "id": 17,
+      "name": "[Python CGI编程](https://www.runoob.com/python3/python3-cgi-programming.html)",
+      "type": "Subtopic",
+      "source": "Python CGI编程.md"
+    },
+    {
+      "id": 18,
+      "name": "enctype",
+      "type": "Keyword",
+      "source": "Python CGI编程.md"
+    },
+    {
+      "id": 19,
+      "name": "打开 CSV 文件",
+      "type": "Topic",
+      "source": "Python csv 模块.md"
+    },
+    {
+      "id": 20,
+      "name": "[Python csv 模块](https://www.runoob.com/python3/python-csv.html)",
+      "type": "Subtopic",
+      "source": "Python csv 模块.md"
+    },
+    {
+      "id": 21,
+      "name": "csv",
+      "type": "Module",
+      "source": "Python csv 模块.md"
+    },
+    {
+      "id": 22,
+      "name": "open",
+      "type": "Function",
+      "source": "Python csv 模块.md"
+    },
+    {
+      "id": 23,
+      "name": "print",
+      "type": "Function",
+      "source": "Python csv 模块.md"
+    },
+    {
+      "id": 24,
+      "name": "__next__",
+      "type": "Function",
+      "source": "Python csv 模块.md"
+    },
+    {
+      "id": 25,
+      "name": "writerow",
+      "type": "Function",
+      "source": "Python csv 模块.md"
+    },
+    {
+      "id": 26,
+      "name": "writerows",
+      "type": "Function",
+      "source": "Python csv 模块.md"
+    },
+    {
+      "id": 27,
+      "name": "writeheader",
+      "type": "Function",
+      "source": "Python csv 模块.md"
+    },
+    {
+      "id": 28,
+      "name": "获取当前日期和时间",
+      "type": "Topic",
+      "source": "Python datetime 模块.md"
+    },
+    {
+      "id": 29,
+      "name": "[Python datetime 模块](https://www.runoob.com/python3/python-datetime.html)",
+      "type": "Subtopic",
+      "source": "Python datetime 模块.md"
+    },
+    {
+      "id": 30,
+      "name": "datetime",
+      "type": "Module",
+      "source": "Python datetime 模块.md"
+    },
+    {
+      "id": 31,
+      "name": "now",
+      "type": "Function",
+      "source": "Python datetime 模块.md"
+    },
+    {
+      "id": 32,
+      "name": "strftime",
+      "type": "Function",
+      "source": "Python datetime 模块.md"
+    },
+    {
+      "id": 33,
+      "name": "date",
+      "type": "Function",
+      "source": "Python datetime 模块.md"
+    },
+    {
+      "id": 34,
+      "name": "time",
+      "type": "Function",
+      "source": "Python datetime 模块.md"
+    },
+    {
+      "id": 35,
+      "name": "datetime",
+      "type": "Function",
+      "source": "Python datetime 模块.md"
+    },
+    {
+      "id": 36,
+      "name": "timedelta",
+      "type": "Function",
+      "source": "Python datetime 模块.md"
+    },
+    {
+      "id": 37,
+      "name": "不可变性",
+      "type": "Keyword",
+      "source": "Python datetime 模块.md"
+    },
+    {
+      "id": 38,
+      "name": "时区处理",
+      "type": "Keyword",
+      "source": "Python datetime 模块.md"
+    },
+    {
+      "id": 39,
+      "name": "边界检查",
+      "type": "Keyword",
+      "source": "Python datetime 模块.md"
+    },
+    {
+      "id": 40,
+      "name": "Python hashlib 模块",
+      "type": "Topic",
+      "source": "Python hashlib 模块.md"
+    },
+    {
+      "id": 41,
+      "name": "[Python hashlib 模块](https://www.runoob.com/python3/python-hashlib.html)",
+      "type": "Subtopic",
+      "source": "Python hashlib 模块.md"
+    },
+    {
+      "id": 42,
+      "name": "hashlib",
+      "type": "Module",
+      "source": "Python hashlib 模块.md"
+    },
+    {
+      "id": 43,
+      "name": "hashlib",
+      "type": "Keyword",
+      "source": "Python hashlib 模块.md"
+    },
+    {
+      "id": 44,
+      "name": "MD5",
+      "type": "Keyword",
+      "source": "Python hashlib 模块.md"
+    },
+    {
+      "id": 45,
+      "name": "使用 reduce() 和 lambda 函数计算乘积",
+      "type": "Topic",
+      "source": "Python lambda（匿名函数）.md"
+    },
+    {
+      "id": 46,
+      "name": "[Python lambda（匿名函数）](https://www.runoob.com/python3/python-lambda.html)",
+      "type": "Subtopic",
+      "source": "Python lambda（匿名函数）.md"
+    },
+    {
+      "id": 47,
+      "name": "创建文件处理器",
+      "type": "Topic",
+      "source": "Python logging 模块.md"
+    },
+    {
+      "id": 48,
+      "name": "[Python logging 模块](https://www.runoob.com/python3/python-logging.html)",
+      "type": "Subtopic",
+      "source": "Python logging 模块.md"
+    },
+    {
+      "id": 49,
+      "name": "logging",
+      "type": "Module",
+      "source": "Python logging 模块.md"
+    },
+    {
+      "id": 50,
+      "name": "灵活性",
+      "type": "Keyword",
+      "source": "Python logging 模块.md"
+    },
+    {
+      "id": 51,
+      "name": "可扩展性",
+      "type": "Keyword",
+      "source": "Python logging 模块.md"
+    },
+    {
+      "id": 52,
+      "name": "结构化日志",
+      "type": "Keyword",
+      "source": "Python logging 模块.md"
+    },
+    {
+      "id": 53,
+      "name": "性能优化",
+      "type": "Keyword",
+      "source": "Python logging 模块.md"
+    },
+    {
+      "id": 54,
+      "name": "DEBUG",
+      "type": "Keyword",
+      "source": "Python logging 模块.md"
+    },
+    {
+      "id": 55,
+      "name": "INFO",
+      "type": "Keyword",
+      "source": "Python logging 模块.md"
+    },
+    {
+      "id": 56,
+      "name": "WARNING",
+      "type": "Keyword",
+      "source": "Python logging 模块.md"
+    },
+    {
+      "id": 57,
+      "name": "ERROR",
+      "type": "Keyword",
+      "source": "Python logging 模块.md"
+    },
+    {
+      "id": 58,
+      "name": "CRITICAL",
+      "type": "Keyword",
+      "source": "Python logging 模块.md"
+    },
+    {
+      "id": 59,
+      "name": "常用参数",
+      "type": "Keyword",
+      "source": "Python logging 模块.md"
+    },
+    {
+      "id": 60,
+      "name": "定义 Markdown 文本",
+      "type": "Topic",
+      "source": "Python Markdown 生成 HTML.md"
+    },
+    {
+      "id": 61,
+      "name": "[Python Markdown 生成 HTML](https://www.runoob.com/python3/python-markdown2html.html)",
+      "type": "Subtopic",
+      "source": "Python Markdown 生成 HTML.md"
+    },
+    {
+      "id": 62,
+      "name": "Python math 模块",
+      "type": "Topic",
+      "source": "Python math 模块.md"
+    },
+    {
+      "id": 63,
+      "name": "[Python math 模块](https://www.runoob.com/python3/python-math.html)",
+      "type": "Subtopic",
+      "source": "Python math 模块.md"
+    },
+    {
+      "id": 64,
+      "name": "math",
+      "type": "Module",
+      "source": "Python math 模块.md"
+    },
+    {
+      "id": 65,
+      "name": "math",
+      "type": "Keyword",
+      "source": "Python math 模块.md"
+    },
+    {
+      "id": 66,
+      "name": "dblist = myclient.database_names()",
+      "type": "Topic",
+      "source": "Python MongoDB.md"
+    },
+    {
+      "id": 67,
+      "name": "[Python MongoDB](https://www.runoob.com/python3/python-mongodb.html)",
+      "type": "Subtopic",
+      "source": "Python MongoDB.md"
+    },
+    {
+      "id": 68,
+      "name": "Python MySQL - mysql-connector 驱动",
+      "type": "Topic",
+      "source": "Python MySQL - mysql-connector 驱动.md"
+    },
+    {
+      "id": 69,
+      "name": "[Python MySQL - mysql-connector 驱动](https://www.runoob.com/python3/python-mysql-connector.html)",
+      "type": "Subtopic",
+      "source": "Python MySQL - mysql-connector 驱动.md"
+    },
+    {
+      "id": 70,
+      "name": "MySQL",
+      "type": "Keyword",
+      "source": "Python MySQL - mysql-connector 驱动.md"
+    },
+    {
+      "id": 71,
+      "name": "pip",
+      "type": "Keyword",
+      "source": "Python MySQL - mysql-connector 驱动.md"
+    },
+    {
+      "id": 72,
+      "name": "sites",
+      "type": "Keyword",
+      "source": "Python MySQL - mysql-connector 驱动.md"
+    },
+    {
+      "id": 73,
+      "name": "SELECT",
+      "type": "Keyword",
+      "source": "Python MySQL - mysql-connector 驱动.md"
+    },
+    {
+      "id": 74,
+      "name": "where",
+      "type": "Keyword",
+      "source": "Python MySQL - mysql-connector 驱动.md"
+    },
+    {
+      "id": 75,
+      "name": "ASC",
+      "type": "Keyword",
+      "source": "Python MySQL - mysql-connector 驱动.md"
+    },
+    {
+      "id": 76,
+      "name": "DESC",
+      "type": "Keyword",
+      "source": "Python MySQL - mysql-connector 驱动.md"
+    },
+    {
+      "id": 77,
+      "name": "OFFSET",
+      "type": "Keyword",
+      "source": "Python MySQL - mysql-connector 驱动.md"
+    },
+    {
+      "id": 78,
+      "name": "如果下述命令报错，请将pip替换为pip3",
+      "type": "Topic",
+      "source": "Python OpenAI.md"
+    },
+    {
+      "id": 79,
+      "name": "[Python OpenAI](https://www.runoob.com/python3/python-openai.html)",
+      "type": "Subtopic",
+      "source": "Python OpenAI.md"
+    },
+    {
+      "id": 80,
+      "name": "创建一个 Python 对象",
+      "type": "Topic",
+      "source": "Python Pickle 模块.md"
+    },
+    {
+      "id": 81,
+      "name": "[Python Pickle 模块](https://www.runoob.com/python3/pyhton-pikle.html)",
+      "type": "Subtopic",
+      "source": "Python Pickle 模块.md"
+    },
+    {
+      "id": 82,
+      "name": "Pickle",
+      "type": "Module",
+      "source": "Python Pickle 模块.md"
+    },
+    {
+      "id": 83,
+      "name": "__getstate__",
+      "type": "Function",
+      "source": "Python Pickle 模块.md"
+    },
+    {
+      "id": 84,
+      "name": "__setstate__",
+      "type": "Function",
+      "source": "Python Pickle 模块.md"
+    },
+    {
+      "id": 85,
+      "name": "数据持久化",
+      "type": "Keyword",
+      "source": "Python Pickle 模块.md"
+    },
+    {
+      "id": 86,
+      "name": "数据传输",
+      "type": "Keyword",
+      "source": "Python Pickle 模块.md"
+    },
+    {
+      "id": 87,
+      "name": "快速存储和加载",
+      "type": "Keyword",
+      "source": "Python Pickle 模块.md"
+    },
+    {
+      "id": 88,
+      "name": "安全性",
+      "type": "Keyword",
+      "source": "Python Pickle 模块.md"
+    },
+    {
+      "id": 89,
+      "name": "兼容性",
+      "type": "Keyword",
+      "source": "Python Pickle 模块.md"
+    },
+    {
+      "id": 90,
+      "name": "或者执行 python install.py",
+      "type": "Topic",
+      "source": "Python pyecharts 模块.md"
+    },
+    {
+      "id": 91,
+      "name": "[Python pyecharts 模块](https://www.runoob.com/python3/python-pyecharts.html)",
+      "type": "Subtopic",
+      "source": "Python pyecharts 模块.md"
+    },
+    {
+      "id": 92,
+      "name": "pyecharts",
+      "type": "Module",
+      "source": "Python pyecharts 模块.md"
+    },
+    {
+      "id": 93,
+      "name": "Bar",
+      "type": "Function",
+      "source": "Python pyecharts 模块.md"
+    },
+    {
+      "id": 94,
+      "name": "设置图表配置选项",
+      "type": "Keyword",
+      "source": "Python pyecharts 模块.md"
+    },
+    {
+      "id": 95,
+      "name": "安装PyQt5",
+      "type": "Topic",
+      "source": "Python PyQt.md"
+    },
+    {
+      "id": 96,
+      "name": "[Python PyQt](https://www.runoob.com/python3/python-pyqt.html)",
+      "type": "Subtopic",
+      "source": "Python PyQt.md"
+    },
+    {
+      "id": 97,
+      "name": "setWindowTitle",
+      "type": "Function",
+      "source": "Python PyQt.md"
+    },
+    {
+      "id": 98,
+      "name": "setGeometry",
+      "type": "Function",
+      "source": "Python PyQt.md"
+    },
+    {
+      "id": 99,
+      "name": "show",
+      "type": "Function",
+      "source": "Python PyQt.md"
+    },
+    {
+      "id": 100,
+      "name": "QApplication对象",
+      "type": "Keyword",
+      "source": "Python PyQt.md"
+    },
+    {
+      "id": 101,
+      "name": "窗口和控件",
+      "type": "Keyword",
+      "source": "Python PyQt.md"
+    },
+    {
+      "id": 102,
+      "name": "事件循环",
+      "type": "Keyword",
+      "source": "Python PyQt.md"
+    },
+    {
+      "id": 103,
+      "name": "事件处理器",
+      "type": "Keyword",
+      "source": "Python PyQt.md"
+    },
+    {
+      "id": 104,
+      "name": "组件类别",
+      "type": "Keyword",
+      "source": "Python PyQt.md"
+    },
+    {
+      "id": 105,
+      "name": "组件名称",
+      "type": "Keyword",
+      "source": "Python PyQt.md"
+    },
+    {
+      "id": 106,
+      "name": "所在模块",
+      "type": "Keyword",
+      "source": "Python PyQt.md"
+    },
+    {
+      "id": 107,
+      "name": "基础窗口组件",
+      "type": "Keyword",
+      "source": "Python PyQt.md"
+    },
+    {
+      "id": 108,
+      "name": "布局管理",
+      "type": "Keyword",
+      "source": "Python PyQt.md"
+    },
+    {
+      "id": 109,
+      "name": "按钮类",
+      "type": "Keyword",
+      "source": "Python PyQt.md"
+    },
+    {
+      "id": 110,
+      "name": "输入控件",
+      "type": "Keyword",
+      "source": "Python PyQt.md"
+    },
+    {
+      "id": 111,
+      "name": "显示控件",
+      "type": "Keyword",
+      "source": "Python PyQt.md"
+    },
+    {
+      "id": 112,
+      "name": "容器类",
+      "type": "Keyword",
+      "source": "Python PyQt.md"
+    },
+    {
+      "id": 113,
+      "name": "对话框",
+      "type": "Keyword",
+      "source": "Python PyQt.md"
+    },
+    {
+      "id": 114,
+      "name": "图形视图",
+      "type": "Keyword",
+      "source": "Python PyQt.md"
+    },
+    {
+      "id": 115,
+      "name": "其他功能组件",
+      "type": "Keyword",
+      "source": "Python PyQt.md"
+    },
+    {
+      "id": 116,
+      "name": "创建一个队列",
+      "type": "Topic",
+      "source": "Python queue 模块.md"
+    },
+    {
+      "id": 117,
+      "name": "[Python queue 模块](https://www.runoob.com/python3/python-queue.html)",
+      "type": "Subtopic",
+      "source": "Python queue 模块.md"
+    },
+    {
+      "id": 118,
+      "name": "queue",
+      "type": "Module",
+      "source": "Python queue 模块.md"
+    },
+    {
+      "id": 119,
+      "name": "put",
+      "type": "Function",
+      "source": "Python queue 模块.md"
+    },
+    {
+      "id": 120,
+      "name": "get",
+      "type": "Function",
+      "source": "Python queue 模块.md"
+    },
+    {
+      "id": 121,
+      "name": "qsize",
+      "type": "Function",
+      "source": "Python queue 模块.md"
+    },
+    {
+      "id": 122,
+      "name": "empty",
+      "type": "Function",
+      "source": "Python queue 模块.md"
+    },
+    {
+      "id": 123,
+      "name": "full",
+      "type": "Function",
+      "source": "Python queue 模块.md"
+    },
+    {
+      "id": 124,
+      "name": "task_done",
+      "type": "Function",
+      "source": "Python queue 模块.md"
+    },
+    {
+      "id": 125,
+      "name": "join",
+      "type": "Function",
+      "source": "Python queue 模块.md"
+    },
+    {
+      "id": 126,
+      "name": "导入 random 包",
+      "type": "Topic",
+      "source": "Python random 模块.md"
+    },
+    {
+      "id": 127,
+      "name": "[Python random 模块](https://www.runoob.com/python3/python-random.html)",
+      "type": "Subtopic",
+      "source": "Python random 模块.md"
+    },
+    {
+      "id": 128,
+      "name": "random",
+      "type": "Module",
+      "source": "Python random 模块.md"
+    },
+    {
+      "id": 129,
+      "name": "random",
+      "type": "Keyword",
+      "source": "Python random 模块.md"
+    },
+    {
+      "id": 130,
+      "name": "Python re 模块",
+      "type": "Topic",
+      "source": "Python re 模块.md"
+    },
+    {
+      "id": 131,
+      "name": "[Python re 模块](https://www.runoob.com/python3/python-re.html)",
+      "type": "Subtopic",
+      "source": "Python re 模块.md"
+    },
+    {
+      "id": 132,
+      "name": "re",
+      "type": "Module",
+      "source": "Python re 模块.md"
+    },
+    {
+      "id": 133,
+      "name": "group",
+      "type": "Function",
+      "source": "Python re 模块.md"
+    },
+    {
+      "id": 134,
+      "name": "groups",
+      "type": "Function",
+      "source": "Python re 模块.md"
+    },
+    {
+      "id": 135,
+      "name": "start",
+      "type": "Function",
+      "source": "Python re 模块.md"
+    },
+    {
+      "id": 136,
+      "name": "end",
+      "type": "Function",
+      "source": "Python re 模块.md"
+    },
+    {
+      "id": 137,
+      "name": "span",
+      "type": "Function",
+      "source": "Python re 模块.md"
+    },
+    {
+      "id": 138,
+      "name": "原始字符串",
+      "type": "Keyword",
+      "source": "Python re 模块.md"
+    },
+    {
+      "id": 139,
+      "name": "贪婪匹配",
+      "type": "Keyword",
+      "source": "Python re 模块.md"
+    },
+    {
+      "id": 140,
+      "name": "回溯问题",
+      "type": "Keyword",
+      "source": "Python re 模块.md"
+    },
+    {
+      "id": 141,
+      "name": "导入 requests 包",
+      "type": "Topic",
+      "source": "Python requests 模块.md"
+    },
+    {
+      "id": 142,
+      "name": "[Python requests 模块](https://www.runoob.com/python3/python-requests.html)",
+      "type": "Subtopic",
+      "source": "Python requests 模块.md"
+    },
+    {
+      "id": 143,
+      "name": "requests",
+      "type": "Module",
+      "source": "Python requests 模块.md"
+    },
+    {
+      "id": 144,
+      "name": "url",
+      "type": "Keyword",
+      "source": "Python requests 模块.md"
+    },
+    {
+      "id": 145,
+      "name": "args",
+      "type": "Keyword",
+      "source": "Python requests 模块.md"
+    },
+    {
+      "id": 146,
+      "name": "method",
+      "type": "Keyword",
+      "source": "Python requests 模块.md"
+    },
+    {
+      "id": 147,
+      "name": "data",
+      "type": "Keyword",
+      "source": "Python requests 模块.md"
+    },
+    {
+      "id": 148,
+      "name": "json",
+      "type": "Keyword",
+      "source": "Python requests 模块.md"
+    },
+    {
+      "id": 149,
+      "name": "设置 User-Agent",
+      "type": "Topic",
+      "source": "Python Scrapy 库.md"
+    },
+    {
+      "id": 150,
+      "name": "[Python Scrapy 库](https://www.runoob.com/python3/python-scrapy.html)",
+      "type": "Subtopic",
+      "source": "Python Scrapy 库.md"
+    },
+    {
+      "id": 151,
+      "name": "start_requests",
+      "type": "Function",
+      "source": "Python Scrapy 库.md"
+    },
+    {
+      "id": 152,
+      "name": "parse",
+      "type": "Function",
+      "source": "Python Scrapy 库.md"
+    },
+    {
+      "id": 153,
+      "name": "follow",
+      "type": "Function",
+      "source": "Python Scrapy 库.md"
+    },
+    {
+      "id": 154,
+      "name": "closed",
+      "type": "Function",
+      "source": "Python Scrapy 库.md"
+    },
+    {
+      "id": 155,
+      "name": "log",
+      "type": "Function",
+      "source": "Python Scrapy 库.md"
+    },
+    {
+      "id": 156,
+      "name": "getall",
+      "type": "Function",
+      "source": "Python Scrapy 库.md"
+    },
+    {
+      "id": 157,
+      "name": "process_request",
+      "type": "Function",
+      "source": "Python Scrapy 库.md"
+    },
+    {
+      "id": 158,
+      "name": "process_response",
+      "type": "Function",
+      "source": "Python Scrapy 库.md"
+    },
+    {
+      "id": 159,
+      "name": "process_item",
+      "type": "Function",
+      "source": "Python Scrapy 库.md"
+    },
+    {
+      "id": 160,
+      "name": "open_spider",
+      "type": "Function",
+      "source": "Python Scrapy 库.md"
+    },
+    {
+      "id": 161,
+      "name": "close_spider",
+      "type": "Function",
+      "source": "Python Scrapy 库.md"
+    },
+    {
+      "id": 162,
+      "name": "parse_item",
+      "type": "Function",
+      "source": "Python Scrapy 库.md"
+    },
+    {
+      "id": 163,
+      "name": "Spider",
+      "type": "Keyword",
+      "source": "Python Scrapy 库.md"
+    },
+    {
+      "id": 164,
+      "name": "Item",
+      "type": "Keyword",
+      "source": "Python Scrapy 库.md"
+    },
+    {
+      "id": 165,
+      "name": "Pipeline",
+      "type": "Keyword",
+      "source": "Python Scrapy 库.md"
+    },
+    {
+      "id": 166,
+      "name": "Middleware",
+      "type": "Keyword",
+      "source": "Python Scrapy 库.md"
+    },
+    {
+      "id": 167,
+      "name": "Settings",
+      "type": "Keyword",
+      "source": "Python Scrapy 库.md"
+    },
+    {
+      "id": 168,
+      "name": "分页处理",
+      "type": "Keyword",
+      "source": "Python Scrapy 库.md"
+    },
+    {
+      "id": 169,
+      "name": "爬虫方法",
+      "type": "Keyword",
+      "source": "Python Scrapy 库.md"
+    },
+    {
+      "id": 170,
+      "name": "数据提取方法",
+      "type": "Keyword",
+      "source": "Python Scrapy 库.md"
+    },
+    {
+      "id": 171,
+      "name": "请求与响应方法",
+      "type": "Keyword",
+      "source": "Python Scrapy 库.md"
+    },
+    {
+      "id": 172,
+      "name": "中间件与管道方法",
+      "type": "Keyword",
+      "source": "Python Scrapy 库.md"
+    },
+    {
+      "id": 173,
+      "name": "工具与扩展方法",
+      "type": "Keyword",
+      "source": "Python Scrapy 库.md"
+    },
+    {
+      "id": 174,
+      "name": "其他常用方法",
+      "type": "Keyword",
+      "source": "Python Scrapy 库.md"
+    },
+    {
+      "id": 175,
+      "name": "使用 Chrome 浏览器",
+      "type": "Topic",
+      "source": "Python selenium 库.md"
+    },
+    {
+      "id": 176,
+      "name": "[Python selenium 库](https://www.runoob.com/python3/python-selenium.html)",
+      "type": "Subtopic",
+      "source": "Python selenium 库.md"
+    },
+    {
+      "id": 177,
+      "name": "Python statistics 模块",
+      "type": "Topic",
+      "source": "Python statistics 模块.md"
+    },
+    {
+      "id": 178,
+      "name": "[Python statistics 模块](https://www.runoob.com/python3/python-statistics.html)",
+      "type": "Subtopic",
+      "source": "Python statistics 模块.md"
+    },
+    {
+      "id": 179,
+      "name": "statistics",
+      "type": "Module",
+      "source": "Python statistics 模块.md"
+    },
+    {
+      "id": 180,
+      "name": "mean",
+      "type": "Function",
+      "source": "Python statistics 模块.md"
+    },
+    {
+      "id": 181,
+      "name": "median",
+      "type": "Function",
+      "source": "Python statistics 模块.md"
+    },
+    {
+      "id": 182,
+      "name": "mode",
+      "type": "Function",
+      "source": "Python statistics 模块.md"
+    },
+    {
+      "id": 183,
+      "name": "variance",
+      "type": "Function",
+      "source": "Python statistics 模块.md"
+    },
+    {
+      "id": 184,
+      "name": "stdev",
+      "type": "Function",
+      "source": "Python statistics 模块.md"
+    },
+    {
+      "id": 185,
+      "name": "harmonic_mean",
+      "type": "Function",
+      "source": "Python statistics 模块.md"
+    },
+    {
+      "id": 186,
+      "name": "geometric_mean",
+      "type": "Function",
+      "source": "Python statistics 模块.md"
+    },
+    {
+      "id": 187,
+      "name": "median_low",
+      "type": "Function",
+      "source": "Python statistics 模块.md"
+    },
+    {
+      "id": 188,
+      "name": "median_high",
+      "type": "Function",
+      "source": "Python statistics 模块.md"
+    },
+    {
+      "id": 189,
+      "name": "quantiles",
+      "type": "Function",
+      "source": "Python statistics 模块.md"
+    },
+    {
+      "id": 190,
+      "name": "创建一个 StringIO 对象",
+      "type": "Topic",
+      "source": "Python StringIO 模块.md"
+    },
+    {
+      "id": 191,
+      "name": "[Python StringIO 模块](https://www.runoob.com/python3/python-stringio.html)",
+      "type": "Subtopic",
+      "source": "Python StringIO 模块.md"
+    },
+    {
+      "id": 192,
+      "name": "StringIO",
+      "type": "Module",
+      "source": "Python StringIO 模块.md"
+    },
+    {
+      "id": 193,
+      "name": "StringIO",
+      "type": "Function",
+      "source": "Python StringIO 模块.md"
+    },
+    {
+      "id": 194,
+      "name": "write",
+      "type": "Function",
+      "source": "Python StringIO 模块.md"
+    },
+    {
+      "id": 195,
+      "name": "getvalue",
+      "type": "Function",
+      "source": "Python StringIO 模块.md"
+    },
+    {
+      "id": 196,
+      "name": "seek",
+      "type": "Function",
+      "source": "Python StringIO 模块.md"
+    },
+    {
+      "id": 197,
+      "name": "readline",
+      "type": "Function",
+      "source": "Python StringIO 模块.md"
+    },
+    {
+      "id": 198,
+      "name": "close",
+      "type": "Function",
+      "source": "Python StringIO 模块.md"
+    },
+    {
+      "id": 199,
+      "name": "read",
+      "type": "Function",
+      "source": "Python StringIO 模块.md"
+    },
+    {
+      "id": 200,
+      "name": "readlines",
+      "type": "Function",
+      "source": "Python StringIO 模块.md"
+    },
+    {
+      "id": 201,
+      "name": "tell",
+      "type": "Function",
+      "source": "Python StringIO 模块.md"
+    },
+    {
+      "id": 202,
+      "name": "truncate",
+      "type": "Function",
+      "source": "Python StringIO 模块.md"
+    },
+    {
+      "id": 203,
+      "name": "内存效率",
+      "type": "Keyword",
+      "source": "Python StringIO 模块.md"
+    },
+    {
+      "id": 204,
+      "name": "测试和调试",
+      "type": "Keyword",
+      "source": "Python StringIO 模块.md"
+    },
+    {
+      "id": 205,
+      "name": "执行一个简单的 shell 命令",
+      "type": "Topic",
+      "source": "Python subprocess 模块.md"
+    },
+    {
+      "id": 206,
+      "name": "[Python subprocess 模块](https://www.runoob.com/python3/python-subprocess.html)",
+      "type": "Subtopic",
+      "source": "Python subprocess 模块.md"
+    },
+    {
+      "id": 207,
+      "name": "subprocess",
+      "type": "Module",
+      "source": "Python subprocess 模块.md"
+    },
+    {
+      "id": 208,
+      "name": "poll",
+      "type": "Function",
+      "source": "Python subprocess 模块.md"
+    },
+    {
+      "id": 209,
+      "name": "wait",
+      "type": "Function",
+      "source": "Python subprocess 模块.md"
+    },
+    {
+      "id": 210,
+      "name": "communicate",
+      "type": "Function",
+      "source": "Python subprocess 模块.md"
+    },
+    {
+      "id": 211,
+      "name": "terminate",
+      "type": "Function",
+      "source": "Python subprocess 模块.md"
+    },
+    {
+      "id": 212,
+      "name": "kill",
+      "type": "Function",
+      "source": "Python subprocess 模块.md"
+    },
+    {
+      "id": 213,
+      "name": "列出 os 模块的所有属性和方法",
+      "type": "Topic",
+      "source": "Python sys 模块.md"
+    },
+    {
+      "id": 214,
+      "name": "[Python sys 模块](https://www.runoob.com/python3/python-sys.html)",
+      "type": "Subtopic",
+      "source": "Python sys 模块.md"
+    },
+    {
+      "id": 215,
+      "name": "sys",
+      "type": "Module",
+      "source": "Python sys 模块.md"
+    },
+    {
+      "id": 216,
+      "name": "创建线程实例",
+      "type": "Topic",
+      "source": "Python threading 模块.md"
+    },
+    {
+      "id": 217,
+      "name": "[Python threading 模块](https://www.runoob.com/python3/python-treading.html)",
+      "type": "Subtopic",
+      "source": "Python threading 模块.md"
+    },
+    {
+      "id": 218,
+      "name": "threading",
+      "type": "Module",
+      "source": "Python threading 模块.md"
+    },
+    {
+      "id": 219,
+      "name": "run",
+      "type": "Function",
+      "source": "Python threading 模块.md"
+    },
+    {
+      "id": 220,
+      "name": "is_alive",
+      "type": "Function",
+      "source": "Python threading 模块.md"
+    },
+    {
+      "id": 221,
+      "name": "acquire",
+      "type": "Function",
+      "source": "Python threading 模块.md"
+    },
+    {
+      "id": 222,
+      "name": "release",
+      "type": "Function",
+      "source": "Python threading 模块.md"
+    },
+    {
+      "id": 223,
+      "name": "locked",
+      "type": "Function",
+      "source": "Python threading 模块.md"
+    },
+    {
+      "id": 224,
+      "name": "set",
+      "type": "Function",
+      "source": "Python threading 模块.md"
+    },
+    {
+      "id": 225,
+      "name": "clear",
+      "type": "Function",
+      "source": "Python threading 模块.md"
+    },
+    {
+      "id": 226,
+      "name": "is_set",
+      "type": "Function",
+      "source": "Python threading 模块.md"
+    },
+    {
+      "id": 227,
+      "name": "notify",
+      "type": "Function",
+      "source": "Python threading 模块.md"
+    },
+    {
+      "id": 228,
+      "name": "notify_all",
+      "type": "Function",
+      "source": "Python threading 模块.md"
+    },
+    {
+      "id": 229,
+      "name": "线程安全",
+      "type": "Keyword",
+      "source": "Python threading 模块.md"
+    },
+    {
+      "id": 230,
+      "name": "线程数量",
+      "type": "Keyword",
+      "source": "Python threading 模块.md"
+    },
+    {
+      "id": 231,
+      "name": "Python urllib",
+      "type": "Topic",
+      "source": "Python urllib.md"
+    },
+    {
+      "id": 232,
+      "name": "[Python urllib](https://www.runoob.com/python3/python-urllib.html)",
+      "type": "Subtopic",
+      "source": "Python urllib.md"
+    },
+    {
+      "id": 233,
+      "name": "timeout",
+      "type": "Keyword",
+      "source": "Python urllib.md"
+    },
+    {
+      "id": 234,
+      "name": "cadefault",
+      "type": "Keyword",
+      "source": "Python urllib.md"
+    },
+    {
+      "id": 235,
+      "name": "context",
+      "type": "Keyword",
+      "source": "Python urllib.md"
+    },
+    {
+      "id": 236,
+      "name": "headers",
+      "type": "Keyword",
+      "source": "Python urllib.md"
+    },
+    {
+      "id": 237,
+      "name": "unverifiable",
+      "type": "Keyword",
+      "source": "Python urllib.md"
+    },
+    {
+      "id": 238,
+      "name": "scheme",
+      "type": "Keyword",
+      "source": "Python urllib.md"
+    },
+    {
+      "id": 239,
+      "name": "Python uWSGI  安装配置",
+      "type": "Topic",
+      "source": "Python uWSGI  安装配置.md"
+    },
+    {
+      "id": 240,
+      "name": "[Python uWSGI  安装配置](https://www.runoob.com/python3/python-uwsgi.html)",
+      "type": "Subtopic",
+      "source": "Python uWSGI  安装配置.md"
+    },
+    {
+      "id": 241,
+      "name": "Python VScode 配置",
+      "type": "Topic",
+      "source": "Python VScode 配置.md"
+    },
+    {
+      "id": 242,
+      "name": "[Python VScode 配置](https://www.runoob.com/python3/python-vscode-setup.html)",
+      "type": "Subtopic",
+      "source": "Python VScode 配置.md"
+    },
+    {
+      "id": 243,
+      "name": "文件已自动关闭",
+      "type": "Topic",
+      "source": "Python with 关键字.md"
+    },
+    {
+      "id": 244,
+      "name": "[Python with 关键字](https://www.runoob.com/python3/python3-with-keyword.html)",
+      "type": "Subtopic",
+      "source": "Python with 关键字.md"
+    },
+    {
+      "id": 245,
+      "name": "__enter__",
+      "type": "Function",
+      "source": "Python with 关键字.md"
+    },
+    {
+      "id": 246,
+      "name": "__exit__",
+      "type": "Function",
+      "source": "Python with 关键字.md"
+    },
+    {
+      "id": 247,
+      "name": "容易忘记关闭资源",
+      "type": "Keyword",
+      "source": "Python with 关键字.md"
+    },
+    {
+      "id": 248,
+      "name": "代码冗长",
+      "type": "Keyword",
+      "source": "Python with 关键字.md"
+    },
+    {
+      "id": 249,
+      "name": "异常处理复杂",
+      "type": "Keyword",
+      "source": "Python with 关键字.md"
+    },
+    {
+      "id": 250,
+      "name": "自动资源释放",
+      "type": "Keyword",
+      "source": "Python with 关键字.md"
+    },
+    {
+      "id": 251,
+      "name": "代码简洁",
+      "type": "Keyword",
+      "source": "Python with 关键字.md"
+    },
+    {
+      "id": 252,
+      "name": "异常安全",
+      "type": "Keyword",
+      "source": "Python with 关键字.md"
+    },
+    {
+      "id": 253,
+      "name": "可读性强",
+      "type": "Keyword",
+      "source": "Python with 关键字.md"
+    },
+    {
+      "id": 254,
+      "name": "保持上下文简洁",
+      "type": "Keyword",
+      "source": "Python with 关键字.md"
+    },
+    {
+      "id": 255,
+      "name": "合理处理异常",
+      "type": "Keyword",
+      "source": "Python with 关键字.md"
+    },
+    {
+      "id": 256,
+      "name": "利用多个上下文",
+      "type": "Keyword",
+      "source": "Python with 关键字.md"
+    },
+    {
+      "id": 257,
+      "name": "another_script.py",
+      "type": "Topic",
+      "source": "Python __name__ 与 __main__.md"
+    },
+    {
+      "id": 258,
+      "name": "[Python __name__ 与 __main__](https://www.runoob.com/python3/python3-name-main.html)",
+      "type": "Subtopic",
+      "source": "Python __name__ 与 __main__.md"
+    },
+    {
+      "id": 259,
+      "name": "将列表中各字符串值为键，各字符串的长度为值，组成键值对",
+      "type": "Topic",
+      "source": "Python 推导式.md"
+    },
+    {
+      "id": 260,
+      "name": "[Python 推导式](https://www.runoob.com/python3/python-comprehensions.html)",
+      "type": "Subtopic",
+      "source": "Python 推导式.md"
+    },
+    {
+      "id": 261,
+      "name": "Python 有用的资源",
+      "type": "Topic",
+      "source": "Python 有用的资源.md"
+    },
+    {
+      "id": 262,
+      "name": "[Python 有用的资源](https://www.runoob.com/python3/python3-resources.html)",
+      "type": "Subtopic",
+      "source": "Python 有用的资源.md"
+    },
+    {
+      "id": 263,
+      "name": "Python 测验",
+      "type": "Topic",
+      "source": "Python 测验.md"
+    },
+    {
+      "id": 264,
+      "name": "[Python 测验](https://www.runoob.com/quiz/python-quiz.html)",
+      "type": "Subtopic",
+      "source": "Python 测验.md"
+    },
+    {
+      "id": 265,
+      "name": "使用 requests 获取网页内容",
+      "type": "Topic",
+      "source": "Python 爬虫 - BeautifulSoup.md"
+    },
+    {
+      "id": 266,
+      "name": "[Python 爬虫 - BeautifulSoup](https://www.runoob.com/python3/python-spider-beautifulsoup.html)",
+      "type": "Subtopic",
+      "source": "Python 爬虫 - BeautifulSoup.md"
+    },
+    {
+      "id": 267,
+      "name": "find",
+      "type": "Function",
+      "source": "Python 爬虫 - BeautifulSoup.md"
+    },
+    {
+      "id": 268,
+      "name": "find_all",
+      "type": "Function",
+      "source": "Python 爬虫 - BeautifulSoup.md"
+    },
+    {
+      "id": 269,
+      "name": "BeautifulSoup",
+      "type": "Function",
+      "source": "Python 爬虫 - BeautifulSoup.md"
+    },
+    {
+      "id": 270,
+      "name": "提取数据",
+      "type": "Keyword",
+      "source": "Python 爬虫 - BeautifulSoup.md"
+    },
+    {
+      "id": 271,
+      "name": "存储数据",
+      "type": "Keyword",
+      "source": "Python 爬虫 - BeautifulSoup.md"
+    },
+    {
+      "id": 272,
+      "name": "没有类型注解",
+      "type": "Topic",
+      "source": "Python 类型注解（Type Hints）.md"
+    },
+    {
+      "id": 273,
+      "name": "[Python 类型注解（Type Hints）](https://www.runoob.com/python3/python-type-hints.html)",
+      "type": "Subtopic",
+      "source": "Python 类型注解（Type Hints）.md"
+    },
+    {
+      "id": 274,
+      "name": "提高代码可读性",
+      "type": "Keyword",
+      "source": "Python 类型注解（Type Hints）.md"
+    },
+    {
+      "id": 275,
+      "name": "便于静态检查",
+      "type": "Keyword",
+      "source": "Python 类型注解（Type Hints）.md"
+    },
+    {
+      "id": 276,
+      "name": "增强IDE支持",
+      "type": "Keyword",
+      "source": "Python 类型注解（Type Hints）.md"
+    },
+    {
+      "id": 277,
+      "name": "动态类型",
+      "type": "Keyword",
+      "source": "Python 类型注解（Type Hints）.md"
+    },
+    {
+      "id": 278,
+      "name": "代码难以理解",
+      "type": "Keyword",
+      "source": "Python 类型注解（Type Hints）.md"
+    },
+    {
+      "id": 279,
+      "name": "隐藏的bug",
+      "type": "Keyword",
+      "source": "Python 类型注解（Type Hints）.md"
+    },
+    {
+      "id": 280,
+      "name": "开发效率低",
+      "type": "Keyword",
+      "source": "Python 类型注解（Type Hints）.md"
+    },
+    {
+      "id": 281,
+      "name": "可维护",
+      "type": "Keyword",
+      "source": "Python 类型注解（Type Hints）.md"
+    },
+    {
+      "id": 282,
+      "name": "解读这个函数",
+      "type": "Keyword",
+      "source": "Python 类型注解（Type Hints）.md"
+    },
+    {
+      "id": 283,
+      "name": "错误高亮",
+      "type": "Keyword",
+      "source": "Python 类型注解（Type Hints）.md"
+    },
+    {
+      "id": 284,
+      "name": "智能提示",
+      "type": "Keyword",
+      "source": "Python 类型注解（Type Hints）.md"
+    },
+    {
+      "id": 285,
+      "name": "自动补全",
+      "type": "Keyword",
+      "source": "Python 类型注解（Type Hints）.md"
+    },
+    {
+      "id": 286,
+      "name": "不强制",
+      "type": "Keyword",
+      "source": "Python 类型注解（Type Hints）.md"
+    },
+    {
+      "id": 287,
+      "name": "或者",
+      "type": "Topic",
+      "source": "Python 虚拟环境的创建（venv）.md"
+    },
+    {
+      "id": 288,
+      "name": "[Python 虚拟环境的创建（venv）](https://www.runoob.com/python3/python-venv.html)",
+      "type": "Subtopic",
+      "source": "Python 虚拟环境的创建（venv）.md"
+    },
+    {
+      "id": 289,
+      "name": "项目隔离",
+      "type": "Keyword",
+      "source": "Python 虚拟环境的创建（venv）.md"
+    },
+    {
+      "id": 290,
+      "name": "避免冲突",
+      "type": "Keyword",
+      "source": "Python 虚拟环境的创建（venv）.md"
+    },
+    {
+      "id": 291,
+      "name": "依赖管理",
+      "type": "Keyword",
+      "source": "Python 虚拟环境的创建（venv）.md"
+    },
+    {
+      "id": 292,
+      "name": "测试环境",
+      "type": "Keyword",
+      "source": "Python 虚拟环境的创建（venv）.md"
+    },
+    {
+      "id": 293,
+      "name": "venv",
+      "type": "Keyword",
+      "source": "Python 虚拟环境的创建（venv）.md"
+    },
+    {
+      "id": 294,
+      "name": "virtualenv",
+      "type": "Keyword",
+      "source": "Python 虚拟环境的创建（venv）.md"
+    },
+    {
+      "id": 295,
+      "name": "conda",
+      "type": "Keyword",
+      "source": "Python 虚拟环境的创建（venv）.md"
+    },
+    {
+      "id": 296,
+      "name": "每个项目一个环境",
+      "type": "Keyword",
+      "source": "Python 虚拟环境的创建（venv）.md"
+    },
+    {
+      "id": 297,
+      "name": "记录依赖",
+      "type": "Keyword",
+      "source": "Python 虚拟环境的创建（venv）.md"
+    },
+    {
+      "id": 298,
+      "name": "不提交环境",
+      "type": "Keyword",
+      "source": "Python 虚拟环境的创建（venv）.md"
+    },
+    {
+      "id": 299,
+      "name": "命名清晰",
+      "type": "Keyword",
+      "source": "Python 虚拟环境的创建（venv）.md"
+    },
+    {
+      "id": 300,
+      "name": "定期清理",
+      "type": "Keyword",
+      "source": "Python 虚拟环境的创建（venv）.md"
+    },
+    {
+      "id": 301,
+      "name": "使用装饰器",
+      "type": "Topic",
+      "source": "Python 装饰器.md"
+    },
+    {
+      "id": 302,
+      "name": "[Python 装饰器](https://www.runoob.com/python3/python-decorators.html)",
+      "type": "Subtopic",
+      "source": "Python 装饰器.md"
+    },
+    {
+      "id": 303,
+      "name": "日志记录",
+      "type": "Keyword",
+      "source": "Python 装饰器.md"
+    },
+    {
+      "id": 304,
+      "name": "性能分析",
+      "type": "Keyword",
+      "source": "Python 装饰器.md"
+    },
+    {
+      "id": 305,
+      "name": "权限控制",
+      "type": "Keyword",
+      "source": "Python 装饰器.md"
+    },
+    {
+      "id": 306,
+      "name": "获取股票数据",
+      "type": "Topic",
+      "source": "Python 量化.md"
+    },
+    {
+      "id": 307,
+      "name": "[Python 量化](https://www.runoob.com/python3/python-qt.html)",
+      "type": "Subtopic",
+      "source": "Python 量化.md"
+    },
+    {
+      "id": 308,
+      "name": "使用大括号 {} 来创建空字典",
+      "type": "Topic",
+      "source": "Python3  字典.md"
+    },
+    {
+      "id": 309,
+      "name": "[Python3  字典](https://www.runoob.com/python3/python3-dictionary.html)",
+      "type": "Subtopic",
+      "source": "Python3  字典.md"
+    },
+    {
+      "id": 310,
+      "name": "dict",
+      "type": "Keyword",
+      "source": "Python3  字典.md"
+    },
+    {
+      "id": 311,
+      "name": "格式化成2016-03-20 11:45:39形式",
+      "type": "Topic",
+      "source": "Python3  日期和时间.md"
+    },
+    {
+      "id": 312,
+      "name": "[Python3  日期和时间](https://www.runoob.com/python3/python3-date-time.html)",
+      "type": "Subtopic",
+      "source": "Python3  日期和时间.md"
+    },
+    {
+      "id": 313,
+      "name": "Python3 File(文件) 方法",
+      "type": "Topic",
+      "source": "Python3 File(文件) 方法.md"
+    },
+    {
+      "id": 314,
+      "name": "[Python3 File(文件) 方法](https://www.runoob.com/python3/python3-file-methods.html)",
+      "type": "Subtopic",
+      "source": "Python3 File(文件) 方法.md"
+    },
+    {
+      "id": 315,
+      "name": "Python 字典类型转换为 JSON 对象",
+      "type": "Topic",
+      "source": "Python3 JSON 数据解析.md"
+    },
+    {
+      "id": 316,
+      "name": "[Python3 JSON 数据解析](https://www.runoob.com/python3/python3-json.html)",
+      "type": "Subtopic",
+      "source": "Python3 JSON 数据解析.md"
+    },
+    {
+      "id": 317,
+      "name": "打开数据库连接",
+      "type": "Topic",
+      "source": "Python3 MySQL 数据库连接 - PyMySQL 驱动.md"
+    },
+    {
+      "id": 318,
+      "name": "[Python3 MySQL 数据库连接 - PyMySQL 驱动](https://www.runoob.com/python3/python3-mysql.html)",
+      "type": "Subtopic",
+      "source": "Python3 MySQL 数据库连接 - PyMySQL 驱动.md"
+    },
+    {
+      "id": 319,
+      "name": "pymysql",
+      "type": "Keyword",
+      "source": "Python3 MySQL 数据库连接 - PyMySQL 驱动.md"
+    },
+    {
+      "id": 320,
+      "name": "导入 operator 模块",
+      "type": "Topic",
+      "source": "Python3 operator 模块.md"
+    },
+    {
+      "id": 321,
+      "name": "[Python3 operator 模块](https://www.runoob.com/python3/python-operator.html)",
+      "type": "Subtopic",
+      "source": "Python3 operator 模块.md"
+    },
+    {
+      "id": 322,
+      "name": "add",
+      "type": "Function",
+      "source": "Python3 operator 模块.md"
+    },
+    {
+      "id": 323,
+      "name": "concat",
+      "type": "Function",
+      "source": "Python3 operator 模块.md"
+    },
+    {
+      "id": 324,
+      "name": "contains",
+      "type": "Function",
+      "source": "Python3 operator 模块.md"
+    },
+    {
+      "id": 325,
+      "name": "truediv",
+      "type": "Function",
+      "source": "Python3 operator 模块.md"
+    },
+    {
+      "id": 326,
+      "name": "floordiv",
+      "type": "Function",
+      "source": "Python3 operator 模块.md"
+    },
+    {
+      "id": 327,
+      "name": "and_",
+      "type": "Function",
+      "source": "Python3 operator 模块.md"
+    },
+    {
+      "id": 328,
+      "name": "xor",
+      "type": "Function",
+      "source": "Python3 operator 模块.md"
+    },
+    {
+      "id": 329,
+      "name": "invert",
+      "type": "Function",
+      "source": "Python3 operator 模块.md"
+    },
+    {
+      "id": 330,
+      "name": "or_",
+      "type": "Function",
+      "source": "Python3 operator 模块.md"
+    },
+    {
+      "id": 331,
+      "name": "pow",
+      "type": "Function",
+      "source": "Python3 operator 模块.md"
+    },
+    {
+      "id": 332,
+      "name": "is_",
+      "type": "Function",
+      "source": "Python3 operator 模块.md"
+    },
+    {
+      "id": 333,
+      "name": "is_not",
+      "type": "Function",
+      "source": "Python3 operator 模块.md"
+    },
+    {
+      "id": 334,
+      "name": "setitem",
+      "type": "Function",
+      "source": "Python3 operator 模块.md"
+    },
+    {
+      "id": 335,
+      "name": "delitem",
+      "type": "Function",
+      "source": "Python3 operator 模块.md"
+    },
+    {
+      "id": 336,
+      "name": "getitem",
+      "type": "Function",
+      "source": "Python3 operator 模块.md"
+    },
+    {
+      "id": 337,
+      "name": "lshift",
+      "type": "Function",
+      "source": "Python3 operator 模块.md"
+    },
+    {
+      "id": 338,
+      "name": "mod",
+      "type": "Function",
+      "source": "Python3 operator 模块.md"
+    },
+    {
+      "id": 339,
+      "name": "mul",
+      "type": "Function",
+      "source": "Python3 operator 模块.md"
+    },
+    {
+      "id": 340,
+      "name": "matmul",
+      "type": "Function",
+      "source": "Python3 operator 模块.md"
+    },
+    {
+      "id": 341,
+      "name": "neg",
+      "type": "Function",
+      "source": "Python3 operator 模块.md"
+    },
+    {
+      "id": 342,
+      "name": "not_",
+      "type": "Function",
+      "source": "Python3 operator 模块.md"
+    },
+    {
+      "id": 343,
+      "name": "pos",
+      "type": "Function",
+      "source": "Python3 operator 模块.md"
+    },
+    {
+      "id": 344,
+      "name": "rshift",
+      "type": "Function",
+      "source": "Python3 operator 模块.md"
+    },
+    {
+      "id": 345,
+      "name": "sub",
+      "type": "Function",
+      "source": "Python3 operator 模块.md"
+    },
+    {
+      "id": 346,
+      "name": "truth",
+      "type": "Function",
+      "source": "Python3 operator 模块.md"
+    },
+    {
+      "id": 347,
+      "name": "lt",
+      "type": "Function",
+      "source": "Python3 operator 模块.md"
+    },
+    {
+      "id": 348,
+      "name": "le",
+      "type": "Function",
+      "source": "Python3 operator 模块.md"
+    },
+    {
+      "id": 349,
+      "name": "eq",
+      "type": "Function",
+      "source": "Python3 operator 模块.md"
+    },
+    {
+      "id": 350,
+      "name": "ne",
+      "type": "Function",
+      "source": "Python3 operator 模块.md"
+    },
+    {
+      "id": 351,
+      "name": "ge",
+      "type": "Function",
+      "source": "Python3 operator 模块.md"
+    },
+    {
+      "id": 352,
+      "name": "gt",
+      "type": "Function",
+      "source": "Python3 operator 模块.md"
+    },
+    {
+      "id": 353,
+      "name": "Python3 OS 文件_目录方法",
+      "type": "Topic",
+      "source": "Python3 OS 文件_目录方法.md"
+    },
+    {
+      "id": 354,
+      "name": "[Python3 OS 文件/目录方法](https://www.runoob.com/python3/python3-os-file-methods.html)",
+      "type": "Subtopic",
+      "source": "Python3 OS 文件_目录方法.md"
+    },
+    {
+      "id": 355,
+      "name": "Python3 pip",
+      "type": "Topic",
+      "source": "Python3 pip.md"
+    },
+    {
+      "id": 356,
+      "name": "[Python3 pip](https://www.runoob.com/python3/python3-pip.html)",
+      "type": "Subtopic",
+      "source": "Python3 pip.md"
+    },
+    {
+      "id": 357,
+      "name": "三个参数：第一个为文本内容，第二个 plain 设置文本格式，第三个 utf-8 设置编码",
+      "type": "Topic",
+      "source": "Python3 SMTP发送邮件.md"
+    },
+    {
+      "id": 358,
+      "name": "[Python3 SMTP发送邮件](https://www.runoob.com/python3/python3-smtp.html)",
+      "type": "Subtopic",
+      "source": "Python3 SMTP发送邮件.md"
+    },
+    {
+      "id": 359,
+      "name": "From",
+      "type": "Keyword",
+      "source": "Python3 SMTP发送邮件.md"
+    },
+    {
+      "id": 360,
+      "name": "Subject",
+      "type": "Keyword",
+      "source": "Python3 SMTP发送邮件.md"
+    },
+    {
+      "id": 361,
+      "name": "smtpObj",
+      "type": "Keyword",
+      "source": "Python3 SMTP发送邮件.md"
+    },
+    {
+      "id": 362,
+      "name": "sendmail",
+      "type": "Keyword",
+      "source": "Python3 SMTP发送邮件.md"
+    },
+    {
+      "id": 363,
+      "name": "定义一个 XML 字符串",
+      "type": "Topic",
+      "source": "Python3 XML 解析.md"
+    },
+    {
+      "id": 364,
+      "name": "[Python3 XML 解析](https://www.runoob.com/python3/python3-xml-processing.html)",
+      "type": "Subtopic",
+      "source": "Python3 XML 解析.md"
+    },
+    {
+      "id": 365,
+      "name": "ElementTree",
+      "type": "Keyword",
+      "source": "Python3 XML 解析.md"
+    },
+    {
+      "id": 366,
+      "name": "Element",
+      "type": "Keyword",
+      "source": "Python3 XML 解析.md"
+    },
+    {
+      "id": 367,
+      "name": "解析器",
+      "type": "Keyword",
+      "source": "Python3 XML 解析.md"
+    },
+    {
+      "id": 368,
+      "name": "xmlfile",
+      "type": "Keyword",
+      "source": "Python3 XML 解析.md"
+    },
+    {
+      "id": 369,
+      "name": "contenthandler",
+      "type": "Keyword",
+      "source": "Python3 XML 解析.md"
+    },
+    {
+      "id": 370,
+      "name": "errorhandler",
+      "type": "Keyword",
+      "source": "Python3 XML 解析.md"
+    },
+    {
+      "id": 371,
+      "name": "xmlstring",
+      "type": "Keyword",
+      "source": "Python3 XML 解析.md"
+    },
+    {
+      "id": 372,
+      "name": "Movie",
+      "type": "Keyword",
+      "source": "Python3 XML 解析.md"
+    },
+    {
+      "id": 373,
+      "name": "以下修改元组元素操作是非法的。",
+      "type": "Topic",
+      "source": "Python3 元组.md"
+    },
+    {
+      "id": 374,
+      "name": "[Python3 元组](https://www.runoob.com/python3/python3-tuple.html)",
+      "type": "Subtopic",
+      "source": "Python3 元组.md"
+    },
+    {
+      "id": 375,
+      "name": "Python3 内置函数",
+      "type": "Topic",
+      "source": "Python3 内置函数.md"
+    },
+    {
+      "id": 376,
+      "name": "[Python3 内置函数](https://www.runoob.com/python3/python3-built-in-functions.html)",
+      "type": "Subtopic",
+      "source": "Python3 内置函数.md"
+    },
+    {
+      "id": 377,
+      "name": "计算面积函数",
+      "type": "Topic",
+      "source": "Python3 函数.md"
+    },
+    {
+      "id": 378,
+      "name": "[Python3 函数](https://www.runoob.com/python3/python3-function.html)",
+      "type": "Subtopic",
+      "source": "Python3 函数.md"
+    },
+    {
+      "id": 379,
+      "name": "def",
+      "type": "Keyword",
+      "source": "Python3 函数.md"
+    },
+    {
+      "id": 380,
+      "name": "读取第二位",
+      "type": "Topic",
+      "source": "Python3 列表.md"
+    },
+    {
+      "id": 381,
+      "name": "[Python3 列表](https://www.runoob.com/python3/python3-list.html)",
+      "type": "Subtopic",
+      "source": "Python3 列表.md"
+    },
+    {
+      "id": 382,
+      "name": "operator",
+      "type": "Module",
+      "source": "Python3 列表.md"
+    },
+    {
+      "id": 383,
+      "name": "var1 是全局名称",
+      "type": "Topic",
+      "source": "Python3 命名空间和作用域.md"
+    },
+    {
+      "id": 384,
+      "name": "[Python3 命名空间和作用域](https://www.runoob.com/python3/python3-namespace-scope.html)",
+      "type": "Subtopic",
+      "source": "Python3 命名空间和作用域.md"
+    },
+    {
+      "id": 385,
+      "name": "Local",
+      "type": "Keyword",
+      "source": "Python3 命名空间和作用域.md"
+    },
+    {
+      "id": 386,
+      "name": "Enclosing",
+      "type": "Keyword",
+      "source": "Python3 命名空间和作用域.md"
+    },
+    {
+      "id": 387,
+      "name": "Global",
+      "type": "Keyword",
+      "source": "Python3 命名空间和作用域.md"
+    },
+    {
+      "id": 388,
+      "name": "全局变量",
+      "type": "Keyword",
+      "source": "Python3 命名空间和作用域.md"
+    },
+    {
+      "id": 389,
+      "name": "局部变量",
+      "type": "Keyword",
+      "source": "Python3 命名空间和作用域.md"
+    },
+    {
+      "id": 390,
+      "name": "变量定义",
+      "type": "Topic",
+      "source": "Python3 基本数据类型.md"
+    },
+    {
+      "id": 391,
+      "name": "[Python3 基本数据类型](https://www.runoob.com/python3/python3-data-type.html)",
+      "type": "Subtopic",
+      "source": "Python3 基本数据类型.md"
+    },
+    {
+      "id": 392,
+      "name": "bool",
+      "type": "Function",
+      "source": "Python3 基本数据类型.md"
+    },
+    {
+      "id": 393,
+      "name": "True",
+      "type": "Keyword",
+      "source": "Python3 基本数据类型.md"
+    },
+    {
+      "id": 394,
+      "name": "-*- coding: cp-1252 -*-",
+      "type": "Topic",
+      "source": "Python3 基础语法.md"
+    },
+    {
+      "id": 395,
+      "name": "[Python3 基础语法](https://www.runoob.com/python3/python3-basic-syntax.html)",
+      "type": "Subtopic",
+      "source": "Python3 基础语法.md"
+    },
+    {
+      "id": 396,
+      "name": "关键字",
+      "type": "Keyword",
+      "source": "Python3 基础语法.md"
+    },
+    {
+      "id": 397,
+      "name": "逻辑值",
+      "type": "Keyword",
+      "source": "Python3 基础语法.md"
+    },
+    {
+      "id": 398,
+      "name": "逻辑运算",
+      "type": "Keyword",
+      "source": "Python3 基础语法.md"
+    },
+    {
+      "id": 399,
+      "name": "条件控制",
+      "type": "Keyword",
+      "source": "Python3 基础语法.md"
+    },
+    {
+      "id": 400,
+      "name": "循环控制",
+      "type": "Keyword",
+      "source": "Python3 基础语法.md"
+    },
+    {
+      "id": 401,
+      "name": "异常处理",
+      "type": "Keyword",
+      "source": "Python3 基础语法.md"
+    },
+    {
+      "id": 402,
+      "name": "函数定义",
+      "type": "Keyword",
+      "source": "Python3 基础语法.md"
+    },
+    {
+      "id": 403,
+      "name": "类与对象",
+      "type": "Keyword",
+      "source": "Python3 基础语法.md"
+    },
+    {
+      "id": 404,
+      "name": "模块导入",
+      "type": "Keyword",
+      "source": "Python3 基础语法.md"
+    },
+    {
+      "id": 405,
+      "name": "作用域",
+      "type": "Keyword",
+      "source": "Python3 基础语法.md"
+    },
+    {
+      "id": 406,
+      "name": "异步编程",
+      "type": "Keyword",
+      "source": "Python3 基础语法.md"
+    },
+    {
+      "id": 407,
+      "name": "int",
+      "type": "Keyword",
+      "source": "Python3 基础语法.md"
+    },
+    {
+      "id": 408,
+      "name": "bool",
+      "type": "Keyword",
+      "source": "Python3 基础语法.md"
+    },
+    {
+      "id": 409,
+      "name": "float",
+      "type": "Keyword",
+      "source": "Python3 基础语法.md"
+    },
+    {
+      "id": 410,
+      "name": "complex",
+      "type": "Keyword",
+      "source": "Python3 基础语法.md"
+    },
+    {
+      "id": 411,
+      "name": "enter",
+      "type": "Keyword",
+      "source": "Python3 基础语法.md"
+    },
+    {
+      "id": 412,
+      "name": "runoob",
+      "type": "Keyword",
+      "source": "Python3 基础语法.md"
+    },
+    {
+      "id": 413,
+      "name": "print",
+      "type": "Keyword",
+      "source": "Python3 基础语法.md"
+    },
+    {
+      "id": 414,
+      "name": "为线程定义一个函数",
+      "type": "Topic",
+      "source": "Python3 多线程.md"
+    },
+    {
+      "id": 415,
+      "name": "[Python3 多线程](https://www.runoob.com/python3/python3-multithreading.html)",
+      "type": "Subtopic",
+      "source": "Python3 多线程.md"
+    },
+    {
+      "id": 416,
+      "name": "__init__",
+      "type": "Function",
+      "source": "Python3 多线程.md"
+    },
+    {
+      "id": 417,
+      "name": "getName",
+      "type": "Function",
+      "source": "Python3 多线程.md"
+    },
+    {
+      "id": 418,
+      "name": "setName",
+      "type": "Function",
+      "source": "Python3 多线程.md"
+    },
+    {
+      "id": 419,
+      "name": "isDaemon",
+      "type": "Function",
+      "source": "Python3 多线程.md"
+    },
+    {
+      "id": 420,
+      "name": "Python3 字符串",
+      "type": "Topic",
+      "source": "Python3 字符串.md"
+    },
+    {
+      "id": 421,
+      "name": "[Python3 字符串](https://www.runoob.com/python3/python3-string.html)",
+      "type": "Subtopic",
+      "source": "Python3 字符串.md"
+    },
+    {
+      "id": 422,
+      "name": "左闭右开",
+      "type": "Keyword",
+      "source": "Python3 字符串.md"
+    },
+    {
+      "id": 423,
+      "name": "ell",
+      "type": "Keyword",
+      "source": "Python3 字符串.md"
+    },
+    {
+      "id": 424,
+      "name": "Python3 实例",
+      "type": "Topic",
+      "source": "Python3 实例.md"
+    },
+    {
+      "id": 425,
+      "name": "[Python3 实例](https://www.runoob.com/python3/python3-examples.html)",
+      "type": "Subtopic",
+      "source": "Python3 实例.md"
+    },
+    {
+      "id": 426,
+      "name": "1 到 5 的所有数字：",
+      "type": "Topic",
+      "source": "Python3 循环语句.md"
+    },
+    {
+      "id": 427,
+      "name": "[Python3 循环语句](https://www.runoob.com/python3/python3-loop.html)",
+      "type": "Subtopic",
+      "source": "Python3 循环语句.md"
+    },
+    {
+      "id": 428,
+      "name": "break",
+      "type": "Keyword",
+      "source": "Python3 循环语句.md"
+    },
+    {
+      "id": 429,
+      "name": "continue",
+      "type": "Keyword",
+      "source": "Python3 循环语句.md"
+    },
+    {
+      "id": 430,
+      "name": "Python3 数字(Number)",
+      "type": "Topic",
+      "source": "Python3 数字(Number).md"
+    },
+    {
+      "id": 431,
+      "name": "[Python3 数字(Number)](https://www.runoob.com/python3/python3-number.html)",
+      "type": "Subtopic",
+      "source": "Python3 数字(Number).md"
+    },
+    {
+      "id": 432,
+      "name": "Python3 数据类型转换",
+      "type": "Topic",
+      "source": "Python3 数据类型转换.md"
+    },
+    {
+      "id": 433,
+      "name": "[Python3 数据类型转换](https://www.runoob.com/python3/python3-type-conversion.html)",
+      "type": "Subtopic",
+      "source": "Python3 数据类型转换.md"
+    },
+    {
+      "id": 434,
+      "name": "使用示例",
+      "type": "Topic",
+      "source": "Python3 数据结构.md"
+    },
+    {
+      "id": 435,
+      "name": "[Python3 数据结构](https://www.runoob.com/python3/python3-data-structure.html)",
+      "type": "Subtopic",
+      "source": "Python3 数据结构.md"
+    },
+    {
+      "id": 436,
+      "name": "程序演示了 == 操作符",
+      "type": "Topic",
+      "source": "Python3 条件控制.md"
+    },
+    {
+      "id": 437,
+      "name": "[Python3 条件控制](https://www.runoob.com/python3/python3-conditional-statements.html)",
+      "type": "Subtopic",
+      "source": "Python3 条件控制.md"
+    },
+    {
+      "id": 438,
+      "name": "elif",
+      "type": "Keyword",
+      "source": "Python3 条件控制.md"
+    },
+    {
+      "id": 439,
+      "name": "获取当前工作目录",
+      "type": "Topic",
+      "source": "Python3 标准库概览.md"
+    },
+    {
+      "id": 440,
+      "name": "[Python3 标准库概览](https://www.runoob.com/python3/python3-stdlib.html)",
+      "type": "Subtopic",
+      "source": "Python3 标准库概览.md"
+    },
+    {
+      "id": 441,
+      "name": "datetime",
+      "type": "Keyword",
+      "source": "Python3 标准库概览.md"
+    },
+    {
+      "id": 442,
+      "name": "文件名: using_sys.py",
+      "type": "Topic",
+      "source": "Python3 模块.md"
+    },
+    {
+      "id": 443,
+      "name": "[Python3 模块](https://www.runoob.com/python3/python3-module.html)",
+      "type": "Subtopic",
+      "source": "Python3 模块.md"
+    },
+    {
+      "id": 444,
+      "name": "代码复用",
+      "type": "Keyword",
+      "source": "Python3 模块.md"
+    },
+    {
+      "id": 445,
+      "name": "命名空间管理",
+      "type": "Keyword",
+      "source": "Python3 模块.md"
+    },
+    {
+      "id": 446,
+      "name": "代码组织",
+      "type": "Keyword",
+      "source": "Python3 模块.md"
+    },
+    {
+      "id": 447,
+      "name": ".* 表示任意匹配除换行符（\\n、\\r）之外的任何单个或多个字符",
+      "type": "Topic",
+      "source": "Python3 正则表达式.md"
+    },
+    {
+      "id": 448,
+      "name": "[Python3 正则表达式](https://www.runoob.com/python3/python3-reg-expressions.html)",
+      "type": "Subtopic",
+      "source": "Python3 正则表达式.md"
+    },
+    {
+      "id": 449,
+      "name": "函数语法",
+      "type": "Keyword",
+      "source": "Python3 正则表达式.md"
+    },
+    {
+      "id": 450,
+      "name": "None",
+      "type": "Keyword",
+      "source": "Python3 正则表达式.md"
+    },
+    {
+      "id": 451,
+      "name": "开头**",
+      "type": "Topic",
+      "source": "Python3 注释.md"
+    },
+    {
+      "id": 452,
+      "name": "[Python3 注释](https://www.runoob.com/python3/python3-comment.html)",
+      "type": "Subtopic",
+      "source": "Python3 注释.md"
+    },
+    {
+      "id": 453,
+      "name": "单行注释",
+      "type": "Keyword",
+      "source": "Python3 注释.md"
+    },
+    {
+      "id": 454,
+      "name": "多行注释",
+      "type": "Keyword",
+      "source": "Python3 注释.md"
+    },
+    {
+      "id": 455,
+      "name": "tar -zxvf Python-3.6.1.tgz",
+      "type": "Topic",
+      "source": "Python3 环境搭建.md"
+    },
+    {
+      "id": 456,
+      "name": "[Python3 环境搭建](https://www.runoob.com/python3/python3-install.html)",
+      "type": "Subtopic",
+      "source": "Python3 环境搭建.md"
+    },
+    {
+      "id": 457,
+      "name": "IDLE",
+      "type": "Keyword",
+      "source": "Python3 环境搭建.md"
+    },
+    {
+      "id": 458,
+      "name": "Enter",
+      "type": "Keyword",
+      "source": "Python3 环境搭建.md"
+    },
+    {
+      "id": 459,
+      "name": "Python3 简介",
+      "type": "Topic",
+      "source": "Python3 简介.md"
+    },
+    {
+      "id": 460,
+      "name": "[Python3 简介](https://www.runoob.com/python3/python3-intro.html)",
+      "type": "Subtopic",
+      "source": "Python3 简介.md"
+    },
+    {
+      "id": 461,
+      "name": "Fibonacci series: 斐波纳契数列",
+      "type": "Topic",
+      "source": "Python3 编程第一步.md"
+    },
+    {
+      "id": 462,
+      "name": "[Python3 编程第一步](https://www.runoob.com/python3/python3-step1.html)",
+      "type": "Subtopic",
+      "source": "Python3 编程第一步.md"
+    },
+    {
+      "id": 463,
+      "name": "文件名：server.py",
+      "type": "Topic",
+      "source": "Python3 网络编程.md"
+    },
+    {
+      "id": 464,
+      "name": "[Python3 网络编程](https://www.runoob.com/python3/python3-socket.html)",
+      "type": "Subtopic",
+      "source": "Python3 网络编程.md"
+    },
+    {
+      "id": 465,
+      "name": "Internet",
+      "type": "Module",
+      "source": "Python3 网络编程.md"
+    },
+    {
+      "id": 466,
+      "name": "socket",
+      "type": "Keyword",
+      "source": "Python3 网络编程.md"
+    },
+    {
+      "id": 467,
+      "name": "accept",
+      "type": "Keyword",
+      "source": "Python3 网络编程.md"
+    },
+    {
+      "id": 468,
+      "name": "connection",
+      "type": "Keyword",
+      "source": "Python3 网络编程.md"
+    },
+    {
+      "id": 469,
+      "name": "hostname",
+      "type": "Keyword",
+      "source": "Python3 网络编程.md"
+    },
+    {
+      "id": 470,
+      "name": "port",
+      "type": "Keyword",
+      "source": "Python3 网络编程.md"
+    },
+    {
+      "id": 471,
+      "name": "Python3 解释器",
+      "type": "Topic",
+      "source": "Python3 解释器.md"
+    },
+    {
+      "id": 472,
+      "name": "[Python3 解释器](https://www.runoob.com/python3/python3-interpreter.html)",
+      "type": "Subtopic",
+      "source": "Python3 解释器.md"
+    },
+    {
+      "id": 473,
+      "name": "打开一个文件",
+      "type": "Topic",
+      "source": "Python3 输入和输出.md"
+    },
+    {
+      "id": 474,
+      "name": "[Python3 输入和输出](https://www.runoob.com/python3/python3-inputoutput.html)",
+      "type": "Subtopic",
+      "source": "Python3 输入和输出.md"
+    },
+    {
+      "id": 475,
+      "name": "修改变量 a 、b 、c",
+      "type": "Topic",
+      "source": "Python3 运算符.md"
+    },
+    {
+      "id": 476,
+      "name": "[Python3 运算符](https://www.runoob.com/python3/python3-basic-operators.html)",
+      "type": "Subtopic",
+      "source": "Python3 运算符.md"
+    },
+    {
+      "id": 477,
+      "name": "x",
+      "type": "Function",
+      "source": "Python3 运算符.md"
+    },
+    {
+      "id": 478,
+      "name": "操作数",
+      "type": "Keyword",
+      "source": "Python3 运算符.md"
+    },
+    {
+      "id": 479,
+      "name": "运算符",
+      "type": "Keyword",
+      "source": "Python3 运算符.md"
+    },
+    {
+      "id": 480,
+      "name": "创建生成器对象",
+      "type": "Topic",
+      "source": "Python3 迭代器与生成器.md"
+    },
+    {
+      "id": 481,
+      "name": "[Python3 迭代器与生成器](https://www.runoob.com/python3/python3-iterator-generator.html)",
+      "type": "Subtopic",
+      "source": "Python3 迭代器与生成器.md"
+    },
+    {
+      "id": 482,
+      "name": "yield",
+      "type": "Keyword",
+      "source": "Python3 迭代器与生成器.md"
+    },
+    {
+      "id": 483,
+      "name": "for",
+      "type": "Keyword",
+      "source": "Python3 迭代器与生成器.md"
+    },
+    {
+      "id": 484,
+      "name": "countdown",
+      "type": "Keyword",
+      "source": "Python3 迭代器与生成器.md"
+    },
+    {
+      "id": 485,
+      "name": "Python3 错误和异常",
+      "type": "Topic",
+      "source": "Python3 错误和异常.md"
+    },
+    {
+      "id": 486,
+      "name": "[Python3 错误和异常](https://www.runoob.com/python3/python3-errors-execptions.html)",
+      "type": "Subtopic",
+      "source": "Python3 错误和异常.md"
+    },
+    {
+      "id": 487,
+      "name": "else",
+      "type": "Keyword",
+      "source": "Python3 错误和异常.md"
+    },
+    {
+      "id": 488,
+      "name": "Python3 集合",
+      "type": "Topic",
+      "source": "Python3 集合.md"
+    },
+    {
+      "id": 489,
+      "name": "[Python3 集合](https://www.runoob.com/python3/python3-set.html)",
+      "type": "Subtopic",
+      "source": "Python3 集合.md"
+    },
+    {
+      "id": 490,
+      "name": "实例化类",
+      "type": "Topic",
+      "source": "Python3 面向对象.md"
+    },
+    {
+      "id": 491,
+      "name": "[Python3 面向对象](https://www.runoob.com/python3/python3-class.html)",
+      "type": "Subtopic",
+      "source": "Python3 面向对象.md"
+    },
+    {
+      "id": 492,
+      "name": "构造方法",
+      "type": "Keyword",
+      "source": "Python3 面向对象.md"
+    },
+    {
+      "id": 493,
+      "name": "第一个参数名称",
+      "type": "Keyword",
+      "source": "Python3 面向对象.md"
+    }
+  ],
+  "relationships": [
+    {
+      "id": 1,
+      "start_id": 1,
+      "end_id": 2,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 2,
+      "start_id": 3,
+      "end_id": 4,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 3,
+      "start_id": 3,
+      "end_id": 5,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 4,
+      "start_id": 3,
+      "end_id": 5,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 5,
+      "start_id": 6,
+      "end_id": 7,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 6,
+      "start_id": 6,
+      "end_id": 8,
+      "type": "HAS_MODULE"
+    },
+    {
+      "id": 7,
+      "start_id": 6,
+      "end_id": 8,
+      "type": "HAS_MODULE"
+    },
+    {
+      "id": 8,
+      "start_id": 6,
+      "end_id": 9,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 9,
+      "start_id": 6,
+      "end_id": 10,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 10,
+      "start_id": 6,
+      "end_id": 11,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 11,
+      "start_id": 6,
+      "end_id": 12,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 12,
+      "start_id": 6,
+      "end_id": 13,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 13,
+      "start_id": 6,
+      "end_id": 14,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 14,
+      "start_id": 6,
+      "end_id": 15,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 15,
+      "start_id": 16,
+      "end_id": 17,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 16,
+      "start_id": 16,
+      "end_id": 18,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 17,
+      "start_id": 19,
+      "end_id": 20,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 18,
+      "start_id": 19,
+      "end_id": 21,
+      "type": "HAS_MODULE"
+    },
+    {
+      "id": 19,
+      "start_id": 19,
+      "end_id": 21,
+      "type": "HAS_MODULE"
+    },
+    {
+      "id": 20,
+      "start_id": 19,
+      "end_id": 22,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 21,
+      "start_id": 19,
+      "end_id": 22,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 22,
+      "start_id": 19,
+      "end_id": 23,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 23,
+      "start_id": 19,
+      "end_id": 24,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 24,
+      "start_id": 19,
+      "end_id": 25,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 25,
+      "start_id": 19,
+      "end_id": 26,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 26,
+      "start_id": 19,
+      "end_id": 27,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 27,
+      "start_id": 28,
+      "end_id": 29,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 28,
+      "start_id": 28,
+      "end_id": 30,
+      "type": "HAS_MODULE"
+    },
+    {
+      "id": 29,
+      "start_id": 28,
+      "end_id": 30,
+      "type": "HAS_MODULE"
+    },
+    {
+      "id": 30,
+      "start_id": 28,
+      "end_id": 31,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 31,
+      "start_id": 28,
+      "end_id": 32,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 32,
+      "start_id": 28,
+      "end_id": 33,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 33,
+      "start_id": 28,
+      "end_id": 34,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 34,
+      "start_id": 28,
+      "end_id": 35,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 35,
+      "start_id": 28,
+      "end_id": 36,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 36,
+      "start_id": 28,
+      "end_id": 33,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 37,
+      "start_id": 28,
+      "end_id": 35,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 38,
+      "start_id": 28,
+      "end_id": 33,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 39,
+      "start_id": 28,
+      "end_id": 34,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 40,
+      "start_id": 28,
+      "end_id": 33,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 41,
+      "start_id": 28,
+      "end_id": 37,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 42,
+      "start_id": 28,
+      "end_id": 38,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 43,
+      "start_id": 28,
+      "end_id": 39,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 44,
+      "start_id": 40,
+      "end_id": 41,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 45,
+      "start_id": 40,
+      "end_id": 42,
+      "type": "HAS_MODULE"
+    },
+    {
+      "id": 46,
+      "start_id": 40,
+      "end_id": 42,
+      "type": "HAS_MODULE"
+    },
+    {
+      "id": 47,
+      "start_id": 40,
+      "end_id": 42,
+      "type": "HAS_MODULE"
+    },
+    {
+      "id": 48,
+      "start_id": 40,
+      "end_id": 43,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 49,
+      "start_id": 40,
+      "end_id": 43,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 50,
+      "start_id": 40,
+      "end_id": 44,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 51,
+      "start_id": 45,
+      "end_id": 46,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 52,
+      "start_id": 47,
+      "end_id": 48,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 53,
+      "start_id": 47,
+      "end_id": 49,
+      "type": "HAS_MODULE"
+    },
+    {
+      "id": 54,
+      "start_id": 47,
+      "end_id": 49,
+      "type": "HAS_MODULE"
+    },
+    {
+      "id": 55,
+      "start_id": 47,
+      "end_id": 50,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 56,
+      "start_id": 47,
+      "end_id": 51,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 57,
+      "start_id": 47,
+      "end_id": 52,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 58,
+      "start_id": 47,
+      "end_id": 53,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 59,
+      "start_id": 47,
+      "end_id": 54,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 60,
+      "start_id": 47,
+      "end_id": 55,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 61,
+      "start_id": 47,
+      "end_id": 56,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 62,
+      "start_id": 47,
+      "end_id": 57,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 63,
+      "start_id": 47,
+      "end_id": 58,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 64,
+      "start_id": 47,
+      "end_id": 59,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 65,
+      "start_id": 60,
+      "end_id": 61,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 66,
+      "start_id": 62,
+      "end_id": 63,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 67,
+      "start_id": 62,
+      "end_id": 64,
+      "type": "HAS_MODULE"
+    },
+    {
+      "id": 68,
+      "start_id": 62,
+      "end_id": 64,
+      "type": "HAS_MODULE"
+    },
+    {
+      "id": 69,
+      "start_id": 62,
+      "end_id": 65,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 70,
+      "start_id": 62,
+      "end_id": 65,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 71,
+      "start_id": 66,
+      "end_id": 67,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 72,
+      "start_id": 68,
+      "end_id": 69,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 73,
+      "start_id": 68,
+      "end_id": 70,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 74,
+      "start_id": 68,
+      "end_id": 71,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 75,
+      "start_id": 68,
+      "end_id": 72,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 76,
+      "start_id": 68,
+      "end_id": 73,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 77,
+      "start_id": 68,
+      "end_id": 74,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 78,
+      "start_id": 68,
+      "end_id": 75,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 79,
+      "start_id": 68,
+      "end_id": 76,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 80,
+      "start_id": 68,
+      "end_id": 77,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 81,
+      "start_id": 78,
+      "end_id": 79,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 82,
+      "start_id": 80,
+      "end_id": 81,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 83,
+      "start_id": 80,
+      "end_id": 82,
+      "type": "HAS_MODULE"
+    },
+    {
+      "id": 84,
+      "start_id": 80,
+      "end_id": 82,
+      "type": "HAS_MODULE"
+    },
+    {
+      "id": 85,
+      "start_id": 80,
+      "end_id": 83,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 86,
+      "start_id": 80,
+      "end_id": 84,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 87,
+      "start_id": 80,
+      "end_id": 85,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 88,
+      "start_id": 80,
+      "end_id": 86,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 89,
+      "start_id": 80,
+      "end_id": 87,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 90,
+      "start_id": 80,
+      "end_id": 88,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 91,
+      "start_id": 80,
+      "end_id": 89,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 92,
+      "start_id": 90,
+      "end_id": 91,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 93,
+      "start_id": 90,
+      "end_id": 92,
+      "type": "HAS_MODULE"
+    },
+    {
+      "id": 94,
+      "start_id": 90,
+      "end_id": 92,
+      "type": "HAS_MODULE"
+    },
+    {
+      "id": 95,
+      "start_id": 90,
+      "end_id": 93,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 96,
+      "start_id": 90,
+      "end_id": 94,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 97,
+      "start_id": 95,
+      "end_id": 96,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 98,
+      "start_id": 95,
+      "end_id": 97,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 99,
+      "start_id": 95,
+      "end_id": 98,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 100,
+      "start_id": 95,
+      "end_id": 99,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 101,
+      "start_id": 95,
+      "end_id": 100,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 102,
+      "start_id": 95,
+      "end_id": 101,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 103,
+      "start_id": 95,
+      "end_id": 102,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 104,
+      "start_id": 95,
+      "end_id": 103,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 105,
+      "start_id": 95,
+      "end_id": 104,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 106,
+      "start_id": 95,
+      "end_id": 105,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 107,
+      "start_id": 95,
+      "end_id": 106,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 108,
+      "start_id": 95,
+      "end_id": 107,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 109,
+      "start_id": 95,
+      "end_id": 108,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 110,
+      "start_id": 95,
+      "end_id": 109,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 111,
+      "start_id": 95,
+      "end_id": 110,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 112,
+      "start_id": 95,
+      "end_id": 111,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 113,
+      "start_id": 95,
+      "end_id": 112,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 114,
+      "start_id": 95,
+      "end_id": 113,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 115,
+      "start_id": 95,
+      "end_id": 114,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 116,
+      "start_id": 95,
+      "end_id": 115,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 117,
+      "start_id": 116,
+      "end_id": 117,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 118,
+      "start_id": 116,
+      "end_id": 118,
+      "type": "HAS_MODULE"
+    },
+    {
+      "id": 119,
+      "start_id": 116,
+      "end_id": 118,
+      "type": "HAS_MODULE"
+    },
+    {
+      "id": 120,
+      "start_id": 116,
+      "end_id": 118,
+      "type": "HAS_MODULE"
+    },
+    {
+      "id": 121,
+      "start_id": 116,
+      "end_id": 119,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 122,
+      "start_id": 116,
+      "end_id": 120,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 123,
+      "start_id": 116,
+      "end_id": 121,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 124,
+      "start_id": 116,
+      "end_id": 122,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 125,
+      "start_id": 116,
+      "end_id": 123,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 126,
+      "start_id": 116,
+      "end_id": 119,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 127,
+      "start_id": 116,
+      "end_id": 120,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 128,
+      "start_id": 116,
+      "end_id": 122,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 129,
+      "start_id": 116,
+      "end_id": 123,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 130,
+      "start_id": 116,
+      "end_id": 121,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 131,
+      "start_id": 116,
+      "end_id": 124,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 132,
+      "start_id": 116,
+      "end_id": 125,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 133,
+      "start_id": 116,
+      "end_id": 125,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 134,
+      "start_id": 126,
+      "end_id": 127,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 135,
+      "start_id": 126,
+      "end_id": 128,
+      "type": "HAS_MODULE"
+    },
+    {
+      "id": 136,
+      "start_id": 126,
+      "end_id": 128,
+      "type": "HAS_MODULE"
+    },
+    {
+      "id": 137,
+      "start_id": 126,
+      "end_id": 129,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 138,
+      "start_id": 126,
+      "end_id": 129,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 139,
+      "start_id": 126,
+      "end_id": 129,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 140,
+      "start_id": 130,
+      "end_id": 131,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 141,
+      "start_id": 130,
+      "end_id": 132,
+      "type": "HAS_MODULE"
+    },
+    {
+      "id": 142,
+      "start_id": 130,
+      "end_id": 132,
+      "type": "HAS_MODULE"
+    },
+    {
+      "id": 143,
+      "start_id": 130,
+      "end_id": 133,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 144,
+      "start_id": 130,
+      "end_id": 133,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 145,
+      "start_id": 130,
+      "end_id": 134,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 146,
+      "start_id": 130,
+      "end_id": 135,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 147,
+      "start_id": 130,
+      "end_id": 136,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 148,
+      "start_id": 130,
+      "end_id": 137,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 149,
+      "start_id": 130,
+      "end_id": 12,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 150,
+      "start_id": 130,
+      "end_id": 138,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 151,
+      "start_id": 130,
+      "end_id": 139,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 152,
+      "start_id": 130,
+      "end_id": 53,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 153,
+      "start_id": 130,
+      "end_id": 140,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 154,
+      "start_id": 141,
+      "end_id": 142,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 155,
+      "start_id": 141,
+      "end_id": 143,
+      "type": "HAS_MODULE"
+    },
+    {
+      "id": 156,
+      "start_id": 141,
+      "end_id": 143,
+      "type": "HAS_MODULE"
+    },
+    {
+      "id": 157,
+      "start_id": 141,
+      "end_id": 144,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 158,
+      "start_id": 141,
+      "end_id": 145,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 159,
+      "start_id": 141,
+      "end_id": 144,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 160,
+      "start_id": 141,
+      "end_id": 144,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 161,
+      "start_id": 141,
+      "end_id": 145,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 162,
+      "start_id": 141,
+      "end_id": 144,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 163,
+      "start_id": 141,
+      "end_id": 144,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 164,
+      "start_id": 141,
+      "end_id": 144,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 165,
+      "start_id": 141,
+      "end_id": 146,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 166,
+      "start_id": 141,
+      "end_id": 144,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 167,
+      "start_id": 141,
+      "end_id": 145,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 168,
+      "start_id": 141,
+      "end_id": 144,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 169,
+      "start_id": 141,
+      "end_id": 147,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 170,
+      "start_id": 141,
+      "end_id": 148,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 171,
+      "start_id": 141,
+      "end_id": 145,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 172,
+      "start_id": 149,
+      "end_id": 150,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 173,
+      "start_id": 149,
+      "end_id": 151,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 174,
+      "start_id": 149,
+      "end_id": 152,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 175,
+      "start_id": 149,
+      "end_id": 153,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 176,
+      "start_id": 149,
+      "end_id": 154,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 177,
+      "start_id": 149,
+      "end_id": 155,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 178,
+      "start_id": 149,
+      "end_id": 120,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 179,
+      "start_id": 149,
+      "end_id": 156,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 180,
+      "start_id": 149,
+      "end_id": 157,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 181,
+      "start_id": 149,
+      "end_id": 158,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 182,
+      "start_id": 149,
+      "end_id": 159,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 183,
+      "start_id": 149,
+      "end_id": 160,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 184,
+      "start_id": 149,
+      "end_id": 161,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 185,
+      "start_id": 149,
+      "end_id": 151,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 186,
+      "start_id": 149,
+      "end_id": 151,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 187,
+      "start_id": 149,
+      "end_id": 152,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 188,
+      "start_id": 149,
+      "end_id": 152,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 189,
+      "start_id": 149,
+      "end_id": 162,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 190,
+      "start_id": 149,
+      "end_id": 162,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 191,
+      "start_id": 149,
+      "end_id": 153,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 192,
+      "start_id": 149,
+      "end_id": 153,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 193,
+      "start_id": 149,
+      "end_id": 163,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 194,
+      "start_id": 149,
+      "end_id": 164,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 195,
+      "start_id": 149,
+      "end_id": 165,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 196,
+      "start_id": 149,
+      "end_id": 166,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 197,
+      "start_id": 149,
+      "end_id": 167,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 198,
+      "start_id": 149,
+      "end_id": 168,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 199,
+      "start_id": 149,
+      "end_id": 169,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 200,
+      "start_id": 149,
+      "end_id": 170,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 201,
+      "start_id": 149,
+      "end_id": 171,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 202,
+      "start_id": 149,
+      "end_id": 172,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 203,
+      "start_id": 149,
+      "end_id": 173,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 204,
+      "start_id": 149,
+      "end_id": 174,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 205,
+      "start_id": 175,
+      "end_id": 176,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 206,
+      "start_id": 177,
+      "end_id": 178,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 207,
+      "start_id": 177,
+      "end_id": 179,
+      "type": "HAS_MODULE"
+    },
+    {
+      "id": 208,
+      "start_id": 177,
+      "end_id": 179,
+      "type": "HAS_MODULE"
+    },
+    {
+      "id": 209,
+      "start_id": 177,
+      "end_id": 180,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 210,
+      "start_id": 177,
+      "end_id": 181,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 211,
+      "start_id": 177,
+      "end_id": 181,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 212,
+      "start_id": 177,
+      "end_id": 182,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 213,
+      "start_id": 177,
+      "end_id": 182,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 214,
+      "start_id": 177,
+      "end_id": 183,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 215,
+      "start_id": 177,
+      "end_id": 184,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 216,
+      "start_id": 177,
+      "end_id": 185,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 217,
+      "start_id": 177,
+      "end_id": 186,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 218,
+      "start_id": 177,
+      "end_id": 187,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 219,
+      "start_id": 177,
+      "end_id": 188,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 220,
+      "start_id": 177,
+      "end_id": 189,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 221,
+      "start_id": 190,
+      "end_id": 191,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 222,
+      "start_id": 190,
+      "end_id": 192,
+      "type": "HAS_MODULE"
+    },
+    {
+      "id": 223,
+      "start_id": 190,
+      "end_id": 192,
+      "type": "HAS_MODULE"
+    },
+    {
+      "id": 224,
+      "start_id": 190,
+      "end_id": 193,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 225,
+      "start_id": 190,
+      "end_id": 194,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 226,
+      "start_id": 190,
+      "end_id": 195,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 227,
+      "start_id": 190,
+      "end_id": 196,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 228,
+      "start_id": 190,
+      "end_id": 197,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 229,
+      "start_id": 190,
+      "end_id": 198,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 230,
+      "start_id": 190,
+      "end_id": 193,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 231,
+      "start_id": 190,
+      "end_id": 194,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 232,
+      "start_id": 190,
+      "end_id": 199,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 233,
+      "start_id": 190,
+      "end_id": 197,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 234,
+      "start_id": 190,
+      "end_id": 200,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 235,
+      "start_id": 190,
+      "end_id": 195,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 236,
+      "start_id": 190,
+      "end_id": 196,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 237,
+      "start_id": 190,
+      "end_id": 201,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 238,
+      "start_id": 190,
+      "end_id": 202,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 239,
+      "start_id": 190,
+      "end_id": 198,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 240,
+      "start_id": 190,
+      "end_id": 203,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 241,
+      "start_id": 190,
+      "end_id": 50,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 242,
+      "start_id": 190,
+      "end_id": 204,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 243,
+      "start_id": 205,
+      "end_id": 206,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 244,
+      "start_id": 205,
+      "end_id": 207,
+      "type": "HAS_MODULE"
+    },
+    {
+      "id": 245,
+      "start_id": 205,
+      "end_id": 207,
+      "type": "HAS_MODULE"
+    },
+    {
+      "id": 246,
+      "start_id": 205,
+      "end_id": 207,
+      "type": "HAS_MODULE"
+    },
+    {
+      "id": 247,
+      "start_id": 205,
+      "end_id": 208,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 248,
+      "start_id": 205,
+      "end_id": 209,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 249,
+      "start_id": 205,
+      "end_id": 210,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 250,
+      "start_id": 205,
+      "end_id": 211,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 251,
+      "start_id": 205,
+      "end_id": 212,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 252,
+      "start_id": 205,
+      "end_id": 23,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 253,
+      "start_id": 205,
+      "end_id": 22,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 254,
+      "start_id": 213,
+      "end_id": 214,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 255,
+      "start_id": 213,
+      "end_id": 215,
+      "type": "HAS_MODULE"
+    },
+    {
+      "id": 256,
+      "start_id": 213,
+      "end_id": 215,
+      "type": "HAS_MODULE"
+    },
+    {
+      "id": 257,
+      "start_id": 216,
+      "end_id": 217,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 258,
+      "start_id": 216,
+      "end_id": 218,
+      "type": "HAS_MODULE"
+    },
+    {
+      "id": 259,
+      "start_id": 216,
+      "end_id": 218,
+      "type": "HAS_MODULE"
+    },
+    {
+      "id": 260,
+      "start_id": 216,
+      "end_id": 135,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 261,
+      "start_id": 216,
+      "end_id": 219,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 262,
+      "start_id": 216,
+      "end_id": 125,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 263,
+      "start_id": 216,
+      "end_id": 220,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 264,
+      "start_id": 216,
+      "end_id": 23,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 265,
+      "start_id": 216,
+      "end_id": 221,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 266,
+      "start_id": 216,
+      "end_id": 222,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 267,
+      "start_id": 216,
+      "end_id": 223,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 268,
+      "start_id": 216,
+      "end_id": 224,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 269,
+      "start_id": 216,
+      "end_id": 225,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 270,
+      "start_id": 216,
+      "end_id": 209,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 271,
+      "start_id": 216,
+      "end_id": 226,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 272,
+      "start_id": 216,
+      "end_id": 209,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 273,
+      "start_id": 216,
+      "end_id": 227,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 274,
+      "start_id": 216,
+      "end_id": 228,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 275,
+      "start_id": 216,
+      "end_id": 23,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 276,
+      "start_id": 216,
+      "end_id": 23,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 277,
+      "start_id": 216,
+      "end_id": 23,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 278,
+      "start_id": 216,
+      "end_id": 229,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 279,
+      "start_id": 216,
+      "end_id": 230,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 280,
+      "start_id": 231,
+      "end_id": 232,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 281,
+      "start_id": 231,
+      "end_id": 144,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 282,
+      "start_id": 231,
+      "end_id": 147,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 283,
+      "start_id": 231,
+      "end_id": 233,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 284,
+      "start_id": 231,
+      "end_id": 234,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 285,
+      "start_id": 231,
+      "end_id": 235,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 286,
+      "start_id": 231,
+      "end_id": 144,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 287,
+      "start_id": 231,
+      "end_id": 147,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 288,
+      "start_id": 231,
+      "end_id": 236,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 289,
+      "start_id": 231,
+      "end_id": 237,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 290,
+      "start_id": 231,
+      "end_id": 146,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 291,
+      "start_id": 231,
+      "end_id": 238,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 292,
+      "start_id": 239,
+      "end_id": 240,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 293,
+      "start_id": 241,
+      "end_id": 242,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 294,
+      "start_id": 243,
+      "end_id": 244,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 295,
+      "start_id": 243,
+      "end_id": 198,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 296,
+      "start_id": 243,
+      "end_id": 245,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 297,
+      "start_id": 243,
+      "end_id": 246,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 298,
+      "start_id": 243,
+      "end_id": 246,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 299,
+      "start_id": 243,
+      "end_id": 246,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 300,
+      "start_id": 243,
+      "end_id": 247,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 301,
+      "start_id": 243,
+      "end_id": 248,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 302,
+      "start_id": 243,
+      "end_id": 249,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 303,
+      "start_id": 243,
+      "end_id": 250,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 304,
+      "start_id": 243,
+      "end_id": 251,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 305,
+      "start_id": 243,
+      "end_id": 252,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 306,
+      "start_id": 243,
+      "end_id": 253,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 307,
+      "start_id": 243,
+      "end_id": 254,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 308,
+      "start_id": 243,
+      "end_id": 255,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 309,
+      "start_id": 243,
+      "end_id": 256,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 310,
+      "start_id": 257,
+      "end_id": 258,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 311,
+      "start_id": 259,
+      "end_id": 260,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 312,
+      "start_id": 261,
+      "end_id": 262,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 313,
+      "start_id": 263,
+      "end_id": 264,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 314,
+      "start_id": 265,
+      "end_id": 266,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 315,
+      "start_id": 265,
+      "end_id": 267,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 316,
+      "start_id": 265,
+      "end_id": 268,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 317,
+      "start_id": 265,
+      "end_id": 269,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 318,
+      "start_id": 265,
+      "end_id": 23,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 319,
+      "start_id": 265,
+      "end_id": 268,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 320,
+      "start_id": 265,
+      "end_id": 268,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 321,
+      "start_id": 265,
+      "end_id": 268,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 322,
+      "start_id": 265,
+      "end_id": 270,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 323,
+      "start_id": 265,
+      "end_id": 271,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 324,
+      "start_id": 272,
+      "end_id": 273,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 325,
+      "start_id": 272,
+      "end_id": 274,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 326,
+      "start_id": 272,
+      "end_id": 275,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 327,
+      "start_id": 272,
+      "end_id": 276,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 328,
+      "start_id": 272,
+      "end_id": 277,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 329,
+      "start_id": 272,
+      "end_id": 278,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 330,
+      "start_id": 272,
+      "end_id": 279,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 331,
+      "start_id": 272,
+      "end_id": 280,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 332,
+      "start_id": 272,
+      "end_id": 281,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 333,
+      "start_id": 272,
+      "end_id": 282,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 334,
+      "start_id": 272,
+      "end_id": 283,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 335,
+      "start_id": 272,
+      "end_id": 284,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 336,
+      "start_id": 272,
+      "end_id": 285,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 337,
+      "start_id": 272,
+      "end_id": 286,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 338,
+      "start_id": 287,
+      "end_id": 288,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 339,
+      "start_id": 287,
+      "end_id": 289,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 340,
+      "start_id": 287,
+      "end_id": 290,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 341,
+      "start_id": 287,
+      "end_id": 291,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 342,
+      "start_id": 287,
+      "end_id": 292,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 343,
+      "start_id": 287,
+      "end_id": 293,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 344,
+      "start_id": 287,
+      "end_id": 294,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 345,
+      "start_id": 287,
+      "end_id": 295,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 346,
+      "start_id": 287,
+      "end_id": 296,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 347,
+      "start_id": 287,
+      "end_id": 297,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 348,
+      "start_id": 287,
+      "end_id": 298,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 349,
+      "start_id": 287,
+      "end_id": 299,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 350,
+      "start_id": 287,
+      "end_id": 300,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 351,
+      "start_id": 301,
+      "end_id": 302,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 352,
+      "start_id": 301,
+      "end_id": 303,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 353,
+      "start_id": 301,
+      "end_id": 304,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 354,
+      "start_id": 301,
+      "end_id": 305,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 355,
+      "start_id": 306,
+      "end_id": 307,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 356,
+      "start_id": 308,
+      "end_id": 309,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 357,
+      "start_id": 308,
+      "end_id": 310,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 358,
+      "start_id": 311,
+      "end_id": 312,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 359,
+      "start_id": 313,
+      "end_id": 314,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 360,
+      "start_id": 315,
+      "end_id": 316,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 361,
+      "start_id": 317,
+      "end_id": 318,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 362,
+      "start_id": 317,
+      "end_id": 319,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 363,
+      "start_id": 320,
+      "end_id": 321,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 364,
+      "start_id": 320,
+      "end_id": 322,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 365,
+      "start_id": 320,
+      "end_id": 323,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 366,
+      "start_id": 320,
+      "end_id": 324,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 367,
+      "start_id": 320,
+      "end_id": 325,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 368,
+      "start_id": 320,
+      "end_id": 326,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 369,
+      "start_id": 320,
+      "end_id": 327,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 370,
+      "start_id": 320,
+      "end_id": 328,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 371,
+      "start_id": 320,
+      "end_id": 329,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 372,
+      "start_id": 320,
+      "end_id": 330,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 373,
+      "start_id": 320,
+      "end_id": 331,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 374,
+      "start_id": 320,
+      "end_id": 332,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 375,
+      "start_id": 320,
+      "end_id": 333,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 376,
+      "start_id": 320,
+      "end_id": 334,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 377,
+      "start_id": 320,
+      "end_id": 335,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 378,
+      "start_id": 320,
+      "end_id": 336,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 379,
+      "start_id": 320,
+      "end_id": 337,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 380,
+      "start_id": 320,
+      "end_id": 338,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 381,
+      "start_id": 320,
+      "end_id": 339,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 382,
+      "start_id": 320,
+      "end_id": 340,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 383,
+      "start_id": 320,
+      "end_id": 341,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 384,
+      "start_id": 320,
+      "end_id": 342,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 385,
+      "start_id": 320,
+      "end_id": 343,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 386,
+      "start_id": 320,
+      "end_id": 344,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 387,
+      "start_id": 320,
+      "end_id": 334,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 388,
+      "start_id": 320,
+      "end_id": 335,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 389,
+      "start_id": 320,
+      "end_id": 336,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 390,
+      "start_id": 320,
+      "end_id": 338,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 391,
+      "start_id": 320,
+      "end_id": 345,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 392,
+      "start_id": 320,
+      "end_id": 346,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 393,
+      "start_id": 320,
+      "end_id": 347,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 394,
+      "start_id": 320,
+      "end_id": 348,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 395,
+      "start_id": 320,
+      "end_id": 349,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 396,
+      "start_id": 320,
+      "end_id": 350,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 397,
+      "start_id": 320,
+      "end_id": 351,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 398,
+      "start_id": 320,
+      "end_id": 352,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 399,
+      "start_id": 353,
+      "end_id": 354,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 400,
+      "start_id": 355,
+      "end_id": 356,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 401,
+      "start_id": 357,
+      "end_id": 358,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 402,
+      "start_id": 357,
+      "end_id": 359,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 403,
+      "start_id": 357,
+      "end_id": 360,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 404,
+      "start_id": 357,
+      "end_id": 361,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 405,
+      "start_id": 357,
+      "end_id": 362,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 406,
+      "start_id": 363,
+      "end_id": 364,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 407,
+      "start_id": 363,
+      "end_id": 365,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 408,
+      "start_id": 363,
+      "end_id": 366,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 409,
+      "start_id": 363,
+      "end_id": 367,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 410,
+      "start_id": 363,
+      "end_id": 103,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 411,
+      "start_id": 363,
+      "end_id": 368,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 412,
+      "start_id": 363,
+      "end_id": 369,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 413,
+      "start_id": 363,
+      "end_id": 370,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 414,
+      "start_id": 363,
+      "end_id": 371,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 415,
+      "start_id": 363,
+      "end_id": 369,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 416,
+      "start_id": 363,
+      "end_id": 370,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 417,
+      "start_id": 363,
+      "end_id": 372,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 418,
+      "start_id": 363,
+      "end_id": 372,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 419,
+      "start_id": 363,
+      "end_id": 372,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 420,
+      "start_id": 363,
+      "end_id": 372,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 421,
+      "start_id": 363,
+      "end_id": 372,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 422,
+      "start_id": 363,
+      "end_id": 372,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 423,
+      "start_id": 363,
+      "end_id": 372,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 424,
+      "start_id": 363,
+      "end_id": 372,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 425,
+      "start_id": 363,
+      "end_id": 372,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 426,
+      "start_id": 363,
+      "end_id": 372,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 427,
+      "start_id": 373,
+      "end_id": 374,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 428,
+      "start_id": 375,
+      "end_id": 376,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 429,
+      "start_id": 377,
+      "end_id": 378,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 430,
+      "start_id": 377,
+      "end_id": 379,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 431,
+      "start_id": 377,
+      "end_id": 379,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 432,
+      "start_id": 377,
+      "end_id": 379,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 433,
+      "start_id": 380,
+      "end_id": 381,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 434,
+      "start_id": 380,
+      "end_id": 382,
+      "type": "HAS_MODULE"
+    },
+    {
+      "id": 435,
+      "start_id": 383,
+      "end_id": 384,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 436,
+      "start_id": 383,
+      "end_id": 385,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 437,
+      "start_id": 383,
+      "end_id": 386,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 438,
+      "start_id": 383,
+      "end_id": 387,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 439,
+      "start_id": 383,
+      "end_id": 388,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 440,
+      "start_id": 383,
+      "end_id": 389,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 441,
+      "start_id": 390,
+      "end_id": 391,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 442,
+      "start_id": 390,
+      "end_id": 392,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 443,
+      "start_id": 390,
+      "end_id": 393,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 444,
+      "start_id": 394,
+      "end_id": 395,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 445,
+      "start_id": 394,
+      "end_id": 396,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 446,
+      "start_id": 394,
+      "end_id": 397,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 447,
+      "start_id": 394,
+      "end_id": 398,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 448,
+      "start_id": 394,
+      "end_id": 399,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 449,
+      "start_id": 394,
+      "end_id": 400,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 450,
+      "start_id": 394,
+      "end_id": 401,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 451,
+      "start_id": 394,
+      "end_id": 402,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 452,
+      "start_id": 394,
+      "end_id": 403,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 453,
+      "start_id": 394,
+      "end_id": 404,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 454,
+      "start_id": 394,
+      "end_id": 405,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 455,
+      "start_id": 394,
+      "end_id": 406,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 456,
+      "start_id": 394,
+      "end_id": 407,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 457,
+      "start_id": 394,
+      "end_id": 408,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 458,
+      "start_id": 394,
+      "end_id": 409,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 459,
+      "start_id": 394,
+      "end_id": 410,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 460,
+      "start_id": 394,
+      "end_id": 411,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 461,
+      "start_id": 394,
+      "end_id": 412,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 462,
+      "start_id": 394,
+      "end_id": 413,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 463,
+      "start_id": 414,
+      "end_id": 415,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 464,
+      "start_id": 414,
+      "end_id": 416,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 465,
+      "start_id": 414,
+      "end_id": 135,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 466,
+      "start_id": 414,
+      "end_id": 219,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 467,
+      "start_id": 414,
+      "end_id": 219,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 468,
+      "start_id": 414,
+      "end_id": 125,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 469,
+      "start_id": 414,
+      "end_id": 125,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 470,
+      "start_id": 414,
+      "end_id": 220,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 471,
+      "start_id": 414,
+      "end_id": 417,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 472,
+      "start_id": 414,
+      "end_id": 418,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 473,
+      "start_id": 414,
+      "end_id": 419,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 474,
+      "start_id": 420,
+      "end_id": 421,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 475,
+      "start_id": 420,
+      "end_id": 422,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 476,
+      "start_id": 420,
+      "end_id": 423,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 477,
+      "start_id": 424,
+      "end_id": 425,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 478,
+      "start_id": 426,
+      "end_id": 427,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 479,
+      "start_id": 426,
+      "end_id": 428,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 480,
+      "start_id": 426,
+      "end_id": 429,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 481,
+      "start_id": 430,
+      "end_id": 431,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 482,
+      "start_id": 432,
+      "end_id": 433,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 483,
+      "start_id": 434,
+      "end_id": 435,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 484,
+      "start_id": 436,
+      "end_id": 437,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 485,
+      "start_id": 436,
+      "end_id": 438,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 486,
+      "start_id": 439,
+      "end_id": 440,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 487,
+      "start_id": 439,
+      "end_id": 65,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 488,
+      "start_id": 439,
+      "end_id": 129,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 489,
+      "start_id": 439,
+      "end_id": 441,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 490,
+      "start_id": 442,
+      "end_id": 443,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 491,
+      "start_id": 442,
+      "end_id": 444,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 492,
+      "start_id": 442,
+      "end_id": 445,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 493,
+      "start_id": 442,
+      "end_id": 446,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 494,
+      "start_id": 447,
+      "end_id": 448,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 495,
+      "start_id": 447,
+      "end_id": 133,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 496,
+      "start_id": 447,
+      "end_id": 133,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 497,
+      "start_id": 447,
+      "end_id": 133,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 498,
+      "start_id": 447,
+      "end_id": 135,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 499,
+      "start_id": 447,
+      "end_id": 136,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 500,
+      "start_id": 447,
+      "end_id": 137,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 501,
+      "start_id": 447,
+      "end_id": 449,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 502,
+      "start_id": 447,
+      "end_id": 450,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 503,
+      "start_id": 451,
+      "end_id": 452,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 504,
+      "start_id": 451,
+      "end_id": 453,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 505,
+      "start_id": 451,
+      "end_id": 454,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 506,
+      "start_id": 455,
+      "end_id": 456,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 507,
+      "start_id": 455,
+      "end_id": 457,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 508,
+      "start_id": 455,
+      "end_id": 458,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 509,
+      "start_id": 455,
+      "end_id": 458,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 510,
+      "start_id": 459,
+      "end_id": 460,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 511,
+      "start_id": 461,
+      "end_id": 462,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 512,
+      "start_id": 463,
+      "end_id": 464,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 513,
+      "start_id": 463,
+      "end_id": 465,
+      "type": "HAS_MODULE"
+    },
+    {
+      "id": 514,
+      "start_id": 463,
+      "end_id": 466,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 515,
+      "start_id": 463,
+      "end_id": 467,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 516,
+      "start_id": 463,
+      "end_id": 468,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 517,
+      "start_id": 463,
+      "end_id": 469,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 518,
+      "start_id": 463,
+      "end_id": 470,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 519,
+      "start_id": 471,
+      "end_id": 472,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 520,
+      "start_id": 473,
+      "end_id": 474,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 521,
+      "start_id": 475,
+      "end_id": 476,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 522,
+      "start_id": 475,
+      "end_id": 23,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 523,
+      "start_id": 475,
+      "end_id": 477,
+      "type": "HAS_FUNCTION"
+    },
+    {
+      "id": 524,
+      "start_id": 475,
+      "end_id": 478,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 525,
+      "start_id": 475,
+      "end_id": 479,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 526,
+      "start_id": 480,
+      "end_id": 481,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 527,
+      "start_id": 480,
+      "end_id": 482,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 528,
+      "start_id": 480,
+      "end_id": 482,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 529,
+      "start_id": 480,
+      "end_id": 482,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 530,
+      "start_id": 480,
+      "end_id": 482,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 531,
+      "start_id": 480,
+      "end_id": 483,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 532,
+      "start_id": 480,
+      "end_id": 482,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 533,
+      "start_id": 480,
+      "end_id": 484,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 534,
+      "start_id": 485,
+      "end_id": 486,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 535,
+      "start_id": 485,
+      "end_id": 487,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 536,
+      "start_id": 488,
+      "end_id": 489,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 537,
+      "start_id": 490,
+      "end_id": 491,
+      "type": "HAS_SUBTOPIC"
+    },
+    {
+      "id": 538,
+      "start_id": 490,
+      "end_id": 492,
+      "type": "HAS_KEYWORD"
+    },
+    {
+      "id": 539,
+      "start_id": 490,
+      "end_id": 493,
+      "type": "HAS_KEYWORD"
+    }
+  ]
+}

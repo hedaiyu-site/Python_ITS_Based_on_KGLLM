@@ -1,0 +1,40 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="3">
+            <item index="0" class="java.lang.String" itemvalue="lay-filter" />
+            <item index="1" class="java.lang.String" itemvalue="lay-verify" />
+            <item index="2" class="java.lang.String" itemvalue="lay-submit" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="15">
+            <item index="0" class="java.lang.String" itemvalue="Flask" />
+            <item index="1" class="java.lang.String" itemvalue="python" />
+            <item index="2" class="java.lang.String" itemvalue="xz" />
+            <item index="3" class="java.lang.String" itemvalue="sqlite" />
+            <item index="4" class="java.lang.String" itemvalue="libffi" />
+            <item index="5" class="java.lang.String" itemvalue="tzdata" />
+            <item index="6" class="java.lang.String" itemvalue="cryptography" />
+            <item index="7" class="java.lang.String" itemvalue="bzip2" />
+            <item index="8" class="java.lang.String" itemvalue="zlib" />
+            <item index="9" class="java.lang.String" itemvalue="pip" />
+            <item index="10" class="java.lang.String" itemvalue="expat" />
+            <item index="11" class="java.lang.String" itemvalue="openssl" />
+            <item index="12" class="java.lang.String" itemvalue="tk" />
+            <item index="13" class="java.lang.String" itemvalue="ca-certificates" />
+            <item index="14" class="java.lang.String" itemvalue="charset-normalizer" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
