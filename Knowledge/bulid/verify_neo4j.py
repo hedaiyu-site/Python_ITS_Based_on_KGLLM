@@ -35,7 +35,7 @@ if __name__ == "__main__":
     # 连接信息
     uri = "neo4j://localhost:7687"
     user = "neo4j"
-    password = "12345678"
+    password = "hedaiyu123"
     
     verifier = Neo4jVerifier(uri, user, password)
     

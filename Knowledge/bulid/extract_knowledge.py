@@ -128,6 +128,6 @@ class KnowledgeExtractor:
         print(f"结果已保存到 knowledge_graph.json")
 
 if __name__ == "__main__":
-    extractor = KnowledgeExtractor("c:\\hedaiyu\\demo")
+    extractor = KnowledgeExtractor("D:\my_last_school\Knowledge\md")
     extractor.process_all_files()
     extractor.save_results()

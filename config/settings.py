@@ -34,12 +34,12 @@ class Settings(BaseSettings):
     vector_db_path: str = "./vector_db"
     
     # 大模型配置
-    llm_api_key: str = "your_api_key"
-    llm_base_url: str = "https://api.example.com/v1"
-    llm_model: str = "gpt-3.5-turbo"
+    llm_api_key: str = "sk-b40dc8abd15446e1b36464a10be57eee"
+    llm_base_url: str = "https://dashscope.aliyuncs.com/compatible-mode/v1"
+    llm_model: str = "qwen3-coder-flash"
     
     # 安全配置
-    secret_key: str = "your_secret_key"
+    secret_key: str = "HDY666"
     algorithm: str = "HS256"
     access_token_expire_minutes: int = 30
     
