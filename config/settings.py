@@ -36,7 +36,7 @@ class Settings(BaseSettings):
     # 大模型配置
     llm_api_key: str = "sk-b40dc8abd15446e1b36464a10be57eee"
     llm_base_url: str = "https://dashscope.aliyuncs.com/compatible-mode/v1"
-    llm_model: str = "qwen3-coder-flash"
+    llm_model: str = "qwen3.5-plus"
     
     # 安全配置
     secret_key: str = "HDY666"
