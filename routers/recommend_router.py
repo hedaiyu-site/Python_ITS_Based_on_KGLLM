@@ -1,7 +1,11 @@
 from fastapi import APIRouter, Depends, HTTPException
 from pydantic import BaseModel
+from services.recommendation_service import RecommendationService
 
 router = APIRouter()
+
+# 创建RecommendationService实例
+recommendation_service = RecommendationService()
 
 # 个性化推荐相关模型
 class RecommendContentRequest(BaseModel):
@@ -22,23 +26,39 @@ class RecommendQuestionsRequest(BaseModel):
     difficulty: str = "medium"
     limit: int = 5
 
+class UpdatePreferencesRequest(BaseModel):
+    preferences: dict
+
 # 路由端点
-@router.post("/content", response_model=list[RecommendationItem])
+@router.post("/content", response_model=list[dict])
 async def recommend_content(request: RecommendContentRequest):
     """推荐学习内容"""
-    # TODO: 实现内容推荐逻辑
-    return [
-        RecommendationItem(
-            item_id="item_1",
-            item_type="article",
-            title="示例文章",
-            description="这是一篇示例推荐文章",
-            relevance_score=0.9
-        )
-    ]
+    results = await recommendation_service.recommend_content(
+        request.user_id,
+        request.content_type,
+        request.limit
+    )
+    return results
 
 @router.post("/questions", response_model=list[dict])
 async def recommend_questions(request: RecommendQuestionsRequest):
     """推荐练习题"""
-    # TODO: 实现习题推荐逻辑
-    return [{"question_id": "q1", "title": "示例题目"}]
+    results = await recommendation_service.recommend_questions(
+        request.user_id,
+        request.knowledge_node,
+        request.difficulty,
+        request.limit
+    )
+    return results
+
+@router.post("/preferences/update")
+async def update_preferences(user_id: int, request: UpdatePreferencesRequest):
+    """更新用户偏好"""
+    result = await recommendation_service.update_preferences(user_id, request.preferences)
+    return result
+
+@router.get("/reasons")
+async def get_recommendation_reasons(user_id: int, item_id: str):
+    """获取推荐原因"""
+    result = await recommendation_service.get_recommendation_reasons(user_id, item_id)
+    return result

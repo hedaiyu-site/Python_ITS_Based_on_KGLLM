@@ -1,7 +1,11 @@
 from fastapi import APIRouter, Depends, HTTPException
 from pydantic import BaseModel
+from services.code_service import CodeService
 
 router = APIRouter()
+
+# 创建CodeService实例
+code_service = CodeService()
 
 # 代码分析相关模型
 class CodeAnalyzeRequest(BaseModel):
@@ -17,32 +21,43 @@ class CodeAnalysis(BaseModel):
 class CodeCorrectRequest(BaseModel):
     code: str
     error_info: dict = None
+    language: str = "python"
 
 class CodeGenerateRequest(BaseModel):
     prompt: str
     language: str = "python"
     requirements: str = None
 
+class CodeExplainRequest(BaseModel):
+    code: str
+    language: str = "python"
+
 # 路由端点
 @router.post("/analyze", response_model=CodeAnalysis)
 async def analyze_code(request: CodeAnalyzeRequest):
     """代码分析"""
-    # TODO: 实现代码分析逻辑
+    result = await code_service.analyze(request.code, request.language)
     return CodeAnalysis(
-        syntax_errors=[],
-        style_issues=[],
-        complexity_score=0.5,
-        suggestions=["示例建议"]
+        syntax_errors=result["syntax_errors"],
+        style_issues=result["style_issues"],
+        complexity_score=result["complexity_score"],
+        suggestions=result["suggestions"]
     )
 
 @router.post("/correct")
 async def correct_code(request: CodeCorrectRequest):
     """代码纠错"""
-    # TODO: 实现代码纠错逻辑
-    return {"corrected_code": request.code, "explanation": "代码已优化"}
+    result = await code_service.correct(request.code, request.language, request.error_info)
+    return result
 
 @router.post("/generate")
 async def generate_code(request: CodeGenerateRequest):
     """代码生成"""
-    # TODO: 实现代码生成逻辑
-    return {"generated_code": "# 生成的代码示例\nprint('Hello, World!')"}
+    result = await code_service.generate(request.prompt, request.language, request.requirements)
+    return result
+
+@router.post("/explain")
+async def explain_code(request: CodeExplainRequest):
+    """代码解释"""
+    result = await code_service.explain(request.code, request.language)
+    return result
