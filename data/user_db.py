@@ -3,7 +3,7 @@ from sqlalchemy import create_engine, Column, Integer, String, JSON, Float, Bool
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker, Session
 from datetime import datetime
-from config.settings import settings
+from server.config.settings import settings
 
 # 创建SQLAlchemy引擎
 DATABASE_URL = f"mysql+pymysql://{settings.mysql_user}:{settings.mysql_password}@{settings.mysql_host}:{settings.mysql_port}/{settings.mysql_db}"

@@ -2,8 +2,8 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
 # 导入路由（暂时使用空的路由文件，后续会实现）
-from routers import auth_router, knowledge_router, learning_router
-from routers import chat_router, code_router, recommend_router, system_router
+from server.routers import auth_router, knowledge_router, learning_router
+from server.routers import chat_router, code_router, recommend_router, system_router
 
 # 创建FastAPI应用实例
 app = FastAPI(

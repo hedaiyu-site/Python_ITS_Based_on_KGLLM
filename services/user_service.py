@@ -1,8 +1,8 @@
 from typing import Optional, Dict, Any
 from datetime import timedelta
-from config.settings import settings
-from utils.common_utils import verify_password, get_password_hash, create_access_token
-from data.user_db import UserDB
+from server.config.settings import settings
+from server.utils.common_utils import verify_password, get_password_hash, create_access_token
+from server.data.user_db import UserDB
 
 class UserService:
     """用户管理服务"""
