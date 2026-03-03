@@ -6,6 +6,11 @@ import os
 import sys
 import signal
 
+"""
+知识图谱爬取
+"""
+
+
 # 全局变量
 
 # index_url = 'https://www.runoob.com/python/'
