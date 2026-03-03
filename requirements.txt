@@ -17,6 +17,7 @@ redis>=5.0.0
 
 # 向量数据库
 faiss-cpu>=1.7.4
+numpy>=1.24.0
 pymilvus>=2.3.0
 
 # 大模型API
@@ -38,6 +39,7 @@ astor>=0.8.1
 
 # 开发工具
 pytest>=7.4.0
+pytest-asyncio>=0.21.0
 black>=23.10.0
 flake8>=6.1.0
 mypy>=1.6.0

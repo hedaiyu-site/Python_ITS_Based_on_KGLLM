@@ -1,13 +1,13 @@
 from fastapi import APIRouter, Depends, HTTPException
 from pydantic import BaseModel
+from typing import Optional, Dict, Any
 from services.knowledge_service import KnowledgeService
 
 router = APIRouter()
 
-# 创建KnowledgeService实例
 knowledge_service = KnowledgeService()
 
-# 知识图谱相关模型
+
 class KnowledgeNode(BaseModel):
     node_id: str
     node_type: str
@@ -15,11 +15,25 @@ class KnowledgeNode(BaseModel):
     content: str
     properties: dict
 
+
 class KnowledgePath(BaseModel):
     nodes: list[dict]
     relationships: list[dict]
 
-# 路由端点
+
+class SemanticSearchRequest(BaseModel):
+    query: str
+    top_k: int = 10
+    min_score: float = 0.3
+    filters: Optional[Dict[str, Any]] = None
+
+
+class HybridSearchRequest(BaseModel):
+    query: str
+    top_k: int = 10
+    alpha: float = 0.5
+
+
 @router.get("/node/{node_id}", response_model=KnowledgeNode)
 async def get_node(node_id: str):
     """根据ID获取知识节点"""
@@ -43,15 +57,53 @@ async def get_path(source_id: str, target_id: str):
 
 @router.get("/search")
 async def search_knowledge(query: str, limit: int = 20):
-    """搜索知识图谱"""
+    """搜索知识图谱（关键词搜索）"""
     results = await knowledge_service.search(query, limit)
-    return {"query": query, "results": results}
+    return {"query": query, "results": results, "search_type": "keyword"}
+
+@router.post("/search/semantic")
+async def semantic_search(request: SemanticSearchRequest):
+    """语义搜索（基于向量相似度）"""
+    results = await knowledge_service.semantic_search(
+        query=request.query,
+        top_k=request.top_k,
+        min_score=request.min_score,
+        filters=request.filters
+    )
+    return {
+        "query": request.query,
+        "results": results,
+        "search_type": "semantic",
+        "total": len(results)
+    }
+
+@router.post("/search/hybrid")
+async def hybrid_search(request: HybridSearchRequest):
+    """混合搜索（结合关键词和语义搜索）"""
+    results = await knowledge_service.hybrid_search(
+        query=request.query,
+        top_k=request.top_k,
+        alpha=request.alpha
+    )
+    return {
+        "query": request.query,
+        "results": results,
+        "search_type": "hybrid",
+        "alpha": request.alpha,
+        "total": len(results)
+    }
 
 @router.get("/related")
 async def get_related_nodes(node_id: str, relationship_type: str = None):
     """获取相关节点"""
     nodes = await knowledge_service.get_related_nodes(node_id, relationship_type)
     return {"node_id": node_id, "related_nodes": nodes}
+
+@router.get("/similar")
+async def get_similar_nodes(node_id: str, top_k: int = 5):
+    """获取相似节点（基于向量相似度）"""
+    nodes = await knowledge_service.get_similar_nodes(node_id, top_k)
+    return {"node_id": node_id, "similar_nodes": nodes, "total": len(nodes)}
 
 @router.get("/nodes/type")
 async def get_nodes_by_type(node_type: str, limit: int = 50):
@@ -64,3 +116,9 @@ async def get_node_relationships(node_id: str):
     """获取节点的所有关系"""
     relationships = await knowledge_service.get_node_relationships(node_id)
     return {"node_id": node_id, "relationships": relationships}
+
+@router.get("/vector-db/stats")
+async def get_vector_db_stats():
+    """获取向量数据库统计信息"""
+    stats = await knowledge_service.get_vector_db_stats()
+    return {"stats": stats}
