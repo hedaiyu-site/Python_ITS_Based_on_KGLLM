@@ -1,0 +1,687 @@
+{
+  "export_time": "2026-03-19 16:07:27",
+  "statistics": {
+    "total_knowledge_points": 120,
+    "by_type": {
+      "KnowledgePoint": 37,
+      "DataType": 13,
+      "Module": 21,
+      "Function": 6,
+      "Concept": 13,
+      "ControlStructure": 8,
+      "Operator": 8,
+      "Library": 11,
+      "Tool": 3
+    },
+    "relations": {
+      "RELATED_TO": 2,
+      "HAS_CHAPTER": 18,
+      "HAS_SECTION": 53,
+      "HAS_KNOWLEDGE_POINT": 102,
+      "HAS_SUB_POINT": 22
+    }
+  },
+  "knowledge_points": {
+    "KnowledgePoint": [
+      {
+        "id": "course_advanced_ch_1_sec_3_kp_0",
+        "name": "CGI编程"
+      },
+      {
+        "id": "course_advanced_ch_2_sec_0_kp_0",
+        "name": "JSON数据解析"
+      },
+      {
+        "id": "course_basic_ch_0_sec_1_kp_0",
+        "name": "Python3环境安装"
+      },
+      {
+        "id": "course_basic_ch_0_sec_0_kp_0",
+        "name": "Python3简介"
+      },
+      {
+        "id": "course_basic_ch_0_sec_0_kp_1",
+        "name": "Python3解释器"
+      },
+      {
+        "id": "course_basic_ch_1_sec_3_kp_0",
+        "name": "__name__与__main__"
+      },
+      {
+        "id": "course_basic_ch_6_sec_0_kp_1",
+        "name": "__name__属性"
+      },
+      {
+        "id": "course_basic_ch_4_sec_0_kp_3",
+        "name": "return语句"
+      },
+      {
+        "id": "course_basic_ch_9_sec_0_kp_1",
+        "name": "依赖隔离"
+      },
+      {
+        "id": "course_advanced_ch_0_sec_0_kp_1",
+        "name": "内置函数"
+      },
+      {
+        "id": "字典_kp_2",
+        "name": "内置方法"
+      },
+      {
+        "id": "course_basic_ch_4_sec_0_kp_0",
+        "name": "函数定义与调用"
+      },
+      {
+        "id": "字典_kp_1",
+        "name": "创建、访问与修改"
+      },
+      {
+        "id": "字符串_kp_0",
+        "name": "创建、访问与更新"
+      },
+      {
+        "id": "列表_kp_0",
+        "name": "创建、访问与更新"
+      },
+      {
+        "id": "course_basic_ch_6_sec_0_kp_2",
+        "name": "包组织"
+      },
+      {
+        "id": "course_basic_ch_4_sec_0_kp_1",
+        "name": "参数传递"
+      },
+      {
+        "id": "course_basic_ch_2_sec_0_kp_1",
+        "name": "可变与不可变类型"
+      },
+      {
+        "id": "元组_kp_1",
+        "name": "基本操作"
+      },
+      {
+        "id": "course_basic_ch_2_sec_0_kp_0",
+        "name": "基本数据类型分类"
+      },
+      {
+        "id": "course_basic_ch_1_sec_1_kp_1_kp_2",
+        "name": "基础文件读写"
+      },
+      {
+        "id": "列表_kp_1",
+        "name": "常用操作符与方法"
+      },
+      {
+        "id": "course_basic_ch_4_sec_0_kp_1_kp_0",
+        "name": "必需参数与关键字参数"
+      },
+      {
+        "id": "course_basic_ch_4_sec_6_kp_1",
+        "name": "抛出与自定义异常"
+      },
+      {
+        "id": "数字_kp_1",
+        "name": "数学运算与函数"
+      },
+      {
+        "id": "集合_kp_0",
+        "name": "无序不重复特性"
+      },
+      {
+        "id": "course_basic_ch_2_sec_2_kp_1",
+        "name": "显式类型转换函数"
+      },
+      {
+        "id": "course_basic_ch_6_sec_0_kp_0",
+        "name": "模块概念与导入"
+      },
+      {
+        "id": "course_basic_ch_1_sec_0_kp_1",
+        "name": "注释"
+      },
+      {
+        "id": "元组_kp_0",
+        "name": "特性与创建"
+      },
+      {
+        "id": "course_basic_ch_1_sec_1_kp_0",
+        "name": "第一个程序"
+      },
+      {
+        "id": "course_basic_ch_1_sec_0_kp_0",
+        "name": "编码、标识符与关键字"
+      },
+      {
+        "id": "course_basic_ch_1_sec_0_kp_2",
+        "name": "缩进、行与代码组"
+      },
+      {
+        "id": "course_basic_ch_1_sec_1_kp_1",
+        "name": "输入与输出"
+      },
+      {
+        "id": "字典_kp_0",
+        "name": "键值对结构"
+      },
+      {
+        "id": "course_basic_ch_2_sec_2_kp_0",
+        "name": "隐式类型转换"
+      },
+      {
+        "id": "course_basic_ch_4_sec_0_kp_1_kp_1",
+        "name": "默认参数与不定长参数"
+      }
+    ],
+    "DataType": [
+      {
+        "id": null,
+        "name": "元组"
+      },
+      {
+        "id": null,
+        "name": "内置字符串函数"
+      },
+      {
+        "id": null,
+        "name": "列表"
+      },
+      {
+        "id": null,
+        "name": "列表、栈与队列实现"
+      },
+      {
+        "id": null,
+        "name": "列表推导式"
+      },
+      {
+        "id": null,
+        "name": "字典"
+      },
+      {
+        "id": null,
+        "name": "字典与集合推导式"
+      },
+      {
+        "id": null,
+        "name": "字符串"
+      },
+      {
+        "id": null,
+        "name": "嵌套列表解析"
+      },
+      {
+        "id": null,
+        "name": "数字"
+      },
+      {
+        "id": null,
+        "name": "整数、浮点数、复数"
+      },
+      {
+        "id": null,
+        "name": "集合"
+      },
+      {
+        "id": null,
+        "name": "集合运算"
+      }
+    ],
+    "Module": [
+      {
+        "id": null,
+        "name": "StringIO模块"
+      },
+      {
+        "id": null,
+        "name": "_thread模块"
+      },
+      {
+        "id": null,
+        "name": "asyncio模块"
+      },
+      {
+        "id": null,
+        "name": "csv模块"
+      },
+      {
+        "id": null,
+        "name": "datetime模块"
+      },
+      {
+        "id": null,
+        "name": "hashlib模块"
+      },
+      {
+        "id": null,
+        "name": "json模块"
+      },
+      {
+        "id": null,
+        "name": "logging模块"
+      },
+      {
+        "id": null,
+        "name": "math模块"
+      },
+      {
+        "id": null,
+        "name": "operator模块"
+      },
+      {
+        "id": null,
+        "name": "os模块文件与目录操作"
+      },
+      {
+        "id": null,
+        "name": "pickle模块"
+      },
+      {
+        "id": null,
+        "name": "queue模块"
+      },
+      {
+        "id": null,
+        "name": "random模块"
+      },
+      {
+        "id": null,
+        "name": "re模块"
+      },
+      {
+        "id": null,
+        "name": "statistics模块"
+      },
+      {
+        "id": null,
+        "name": "subprocess模块"
+      },
+      {
+        "id": null,
+        "name": "sys模块"
+      },
+      {
+        "id": null,
+        "name": "threading模块"
+      },
+      {
+        "id": null,
+        "name": "time与calendar模块"
+      },
+      {
+        "id": null,
+        "name": "urllib模块"
+      }
+    ],
+    "Function": [
+      {
+        "id": "course_basic_ch_3_sec_1_kp_1",
+        "name": "for循环与range()"
+      },
+      {
+        "id": "course_basic_ch_1_sec_1_kp_1_kp_1",
+        "name": "input函数"
+      },
+      {
+        "id": "course_basic_ch_4_sec_1_kp_0",
+        "name": "lambda与map、filter、reduce"
+      },
+      {
+        "id": "course_basic_ch_7_sec_0_kp_0",
+        "name": "open函数与文件对象"
+      },
+      {
+        "id": "course_basic_ch_1_sec_1_kp_1_kp_0",
+        "name": "print函数与格式化"
+      },
+      {
+        "id": "course_basic_ch_4_sec_5_kp_1",
+        "name": "生成器与yield"
+      }
+    ],
+    "Concept": [
+      {
+        "id": "course_basic_ch_6_sec_1_kp_1",
+        "name": "LEGB作用域查找规则"
+      },
+      {
+        "id": "course_advanced_ch_7_sec_1_kp_0",
+        "name": "Markdown转换"
+      },
+      {
+        "id": "course_advanced_ch_1_sec_2_kp_0",
+        "name": "SMTP发送邮件"
+      },
+      {
+        "id": "course_advanced_ch_2_sec_0_kp_1",
+        "name": "XML解析"
+      },
+      {
+        "id": "course_basic_ch_4_sec_0_kp_2",
+        "name": "匿名函数"
+      },
+      {
+        "id": "course_basic_ch_6_sec_1_kp_0",
+        "name": "局部、全局与内置命名空间"
+      },
+      {
+        "id": "course_basic_ch_5_sec_0_kp_1",
+        "name": "属性与方法"
+      },
+      {
+        "id": "course_advanced_ch_2_sec_1_kp_0",
+        "name": "正则表达式"
+      },
+      {
+        "id": "course_basic_ch_4_sec_2_kp_2",
+        "name": "生成器推导式"
+      },
+      {
+        "id": "course_basic_ch_5_sec_0_kp_0",
+        "name": "类与对象"
+      },
+      {
+        "id": "course_basic_ch_5_sec_0_kp_2",
+        "name": "继承与多态"
+      },
+      {
+        "id": "course_advanced_ch_1_sec_0_kp_0",
+        "name": "网络编程"
+      },
+      {
+        "id": "course_basic_ch_4_sec_5_kp_0",
+        "name": "迭代器"
+      }
+    ],
+    "ControlStructure": [
+      {
+        "id": "course_basic_ch_3_sec_1_kp_2_kp_0",
+        "name": "break与continue"
+      },
+      {
+        "id": "course_basic_ch_3_sec_0_kp_0",
+        "name": "if, elif, else语句"
+      },
+      {
+        "id": "course_basic_ch_3_sec_0_kp_1",
+        "name": "match…case语句"
+      },
+      {
+        "id": "course_basic_ch_3_sec_1_kp_2_kp_1",
+        "name": "pass与else子句"
+      },
+      {
+        "id": "course_basic_ch_4_sec_6_kp_0",
+        "name": "try, except, else, finally"
+      },
+      {
+        "id": "course_basic_ch_3_sec_1_kp_0",
+        "name": "while循环"
+      },
+      {
+        "id": "course_basic_ch_4_sec_7_kp_0",
+        "name": "with关键字"
+      },
+      {
+        "id": "course_basic_ch_3_sec_1_kp_2",
+        "name": "循环控制语句"
+      }
+    ],
+    "Operator": [
+      {
+        "id": "course_basic_ch_1_sec_2_kp_4",
+        "name": "位运算符"
+      },
+      {
+        "id": "course_basic_ch_1_sec_2_kp_5",
+        "name": "成员运算符"
+      },
+      {
+        "id": "course_basic_ch_1_sec_2_kp_1",
+        "name": "比较运算符"
+      },
+      {
+        "id": "course_basic_ch_1_sec_2_kp_0",
+        "name": "算术运算符"
+      },
+      {
+        "id": "course_basic_ch_1_sec_2_kp_2",
+        "name": "赋值运算符"
+      },
+      {
+        "id": "course_basic_ch_1_sec_2_kp_6",
+        "name": "身份运算符"
+      },
+      {
+        "id": "字符串_kp_1",
+        "name": "运算符与格式化"
+      },
+      {
+        "id": "course_basic_ch_1_sec_2_kp_3",
+        "name": "逻辑运算符"
+      }
+    ],
+    "Library": [
+      {
+        "id": null,
+        "name": "BeautifulSoup"
+      },
+      {
+        "id": null,
+        "name": "MongoDB"
+      },
+      {
+        "id": null,
+        "name": "MySQL - PyMySQL驱动"
+      },
+      {
+        "id": null,
+        "name": "MySQL - mysql-connector驱动"
+      },
+      {
+        "id": null,
+        "name": "OpenAI"
+      },
+      {
+        "id": null,
+        "name": "PyQt"
+      },
+      {
+        "id": null,
+        "name": "Scrapy库"
+      },
+      {
+        "id": null,
+        "name": "pyecharts模块"
+      },
+      {
+        "id": null,
+        "name": "requests模块"
+      },
+      {
+        "id": null,
+        "name": "selenium库"
+      },
+      {
+        "id": null,
+        "name": "uWSGI安装配置"
+      }
+    ],
+    "Tool": [
+      {
+        "id": null,
+        "name": "VScode配置"
+      },
+      {
+        "id": null,
+        "name": "pip"
+      },
+      {
+        "id": null,
+        "name": "venv创建与管理"
+      }
+    ]
+  },
+  "course_structure": [
+    {
+      "course": "Python高级教程",
+      "chapter": "核心标准库与内置功能",
+      "sections": [
+        "进程管理",
+        "并发与并行",
+        "安全与哈希",
+        "日期与时间处理",
+        "数学与随机运算",
+        "数据处理与序列化",
+        "系统交互与运行时"
+      ]
+    },
+    {
+      "course": "Python高级教程",
+      "chapter": "网络与Web开发",
+      "sections": [
+        "Web服务器与接口",
+        "邮件发送",
+        "HTTP客户端",
+        "网络通信"
+      ]
+    },
+    {
+      "course": "Python高级教程",
+      "chapter": "数据处理与文件格式",
+      "sections": [
+        "文本处理与匹配",
+        "结构化数据解析"
+      ]
+    },
+    {
+      "course": "Python高级教程",
+      "chapter": "数据库交互",
+      "sections": [
+        "非关系型数据库",
+        "关系型数据库"
+      ]
+    },
+    {
+      "course": "Python高级教程",
+      "chapter": "自动化与爬虫",
+      "sections": [
+        "浏览器自动化",
+        "爬虫框架",
+        "网页解析"
+      ]
+    },
+    {
+      "course": "Python高级教程",
+      "chapter": "图形界面与可视化",
+      "sections": [
+        "数据可视化",
+        "图形用户界面"
+      ]
+    },
+    {
+      "course": "Python高级教程",
+      "chapter": "人工智能与新兴应用",
+      "sections": [
+        "量化金融",
+        "AI绘画",
+        "AI模型调用"
+      ]
+    },
+    {
+      "course": "Python高级教程",
+      "chapter": "开发工具与包管理",
+      "sections": [
+        "文档与日志",
+        "包管理工具"
+      ]
+    },
+    {
+      "course": "Python基础编程教程",
+      "chapter": "一、 Python入门与环境",
+      "sections": [
+        "开发环境搭建",
+        "Python语言概述"
+      ]
+    },
+    {
+      "course": "Python基础编程教程",
+      "chapter": "二、 基础语法与结构",
+      "sections": [
+        "模块执行控制",
+        "运算符",
+        "编程初步",
+        "基本语法规则"
+      ]
+    },
+    {
+      "course": "Python基础编程教程",
+      "chapter": "三、 数据类型",
+      "sections": [
+        "数据类型转换",
+        "具体数据类型详解",
+        "数据类型概述"
+      ]
+    },
+    {
+      "course": "Python基础编程教程",
+      "chapter": "四、 流程控制",
+      "sections": [
+        "循环语句",
+        "条件控制"
+      ]
+    },
+    {
+      "course": "Python基础编程教程",
+      "chapter": "五、 函数与高级特性",
+      "sections": [
+        "上下文管理",
+        "错误和异常处理",
+        "迭代器与生成器",
+        "类型注解",
+        "装饰器",
+        "推导式",
+        "函数式编程工具",
+        "函数基础"
+      ]
+    },
+    {
+      "course": "Python基础编程教程",
+      "chapter": "六、 面向对象编程",
+      "sections": [
+        "面向对象基础"
+      ]
+    },
+    {
+      "course": "Python基础编程教程",
+      "chapter": "七、 模块、包与命名空间",
+      "sections": [
+        "命名空间与作用域",
+        "模块"
+      ]
+    },
+    {
+      "course": "Python基础编程教程",
+      "chapter": "八、 文件与操作系统交互",
+      "sections": [
+        "操作系统交互",
+        "文件操作"
+      ]
+    },
+    {
+      "course": "Python基础编程教程",
+      "chapter": "九、 标准库与资源",
+      "sections": [
+        "学习资源推荐",
+        "常用标准库概览"
+      ]
+    },
+    {
+      "course": "Python基础编程教程",
+      "chapter": "十、 开发工具与工程实践",
+      "sections": [
+        "数据结构进阶",
+        "虚拟环境"
+      ]
+    }
+  ]
+}

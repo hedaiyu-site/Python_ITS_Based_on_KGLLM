@@ -1,0 +1,265 @@
+======================================================================
+知识图谱知识点列表
+导出时间: 2026-03-19 16:07:27
+======================================================================
+
+知识点总数: 120 个
+
+
+【KnowledgePoint】(37 个)
+----------------------------------------
+  1. CGI编程 (id: course_advanced_ch_1_sec_3_kp_0)
+  2. JSON数据解析 (id: course_advanced_ch_2_sec_0_kp_0)
+  3. Python3环境安装 (id: course_basic_ch_0_sec_1_kp_0)
+  4. Python3简介 (id: course_basic_ch_0_sec_0_kp_0)
+  5. Python3解释器 (id: course_basic_ch_0_sec_0_kp_1)
+  6. __name__与__main__ (id: course_basic_ch_1_sec_3_kp_0)
+  7. __name__属性 (id: course_basic_ch_6_sec_0_kp_1)
+  8. return语句 (id: course_basic_ch_4_sec_0_kp_3)
+  9. 依赖隔离 (id: course_basic_ch_9_sec_0_kp_1)
+  10. 内置函数 (id: course_advanced_ch_0_sec_0_kp_1)
+  11. 内置方法 (id: 字典_kp_2)
+  12. 函数定义与调用 (id: course_basic_ch_4_sec_0_kp_0)
+  13. 创建、访问与修改 (id: 字典_kp_1)
+  14. 创建、访问与更新 (id: 字符串_kp_0)
+  15. 创建、访问与更新 (id: 列表_kp_0)
+  16. 包组织 (id: course_basic_ch_6_sec_0_kp_2)
+  17. 参数传递 (id: course_basic_ch_4_sec_0_kp_1)
+  18. 可变与不可变类型 (id: course_basic_ch_2_sec_0_kp_1)
+  19. 基本操作 (id: 元组_kp_1)
+  20. 基本数据类型分类 (id: course_basic_ch_2_sec_0_kp_0)
+  21. 基础文件读写 (id: course_basic_ch_1_sec_1_kp_1_kp_2)
+  22. 常用操作符与方法 (id: 列表_kp_1)
+  23. 必需参数与关键字参数 (id: course_basic_ch_4_sec_0_kp_1_kp_0)
+  24. 抛出与自定义异常 (id: course_basic_ch_4_sec_6_kp_1)
+  25. 数学运算与函数 (id: 数字_kp_1)
+  26. 无序不重复特性 (id: 集合_kp_0)
+  27. 显式类型转换函数 (id: course_basic_ch_2_sec_2_kp_1)
+  28. 模块概念与导入 (id: course_basic_ch_6_sec_0_kp_0)
+  29. 注释 (id: course_basic_ch_1_sec_0_kp_1)
+  30. 特性与创建 (id: 元组_kp_0)
+  31. 第一个程序 (id: course_basic_ch_1_sec_1_kp_0)
+  32. 编码、标识符与关键字 (id: course_basic_ch_1_sec_0_kp_0)
+  33. 缩进、行与代码组 (id: course_basic_ch_1_sec_0_kp_2)
+  34. 输入与输出 (id: course_basic_ch_1_sec_1_kp_1)
+  35. 键值对结构 (id: 字典_kp_0)
+  36. 隐式类型转换 (id: course_basic_ch_2_sec_2_kp_0)
+  37. 默认参数与不定长参数 (id: course_basic_ch_4_sec_0_kp_1_kp_1)
+
+【DataType】(13 个)
+----------------------------------------
+  1. 元组
+  2. 内置字符串函数
+  3. 列表
+  4. 列表、栈与队列实现
+  5. 列表推导式
+  6. 字典
+  7. 字典与集合推导式
+  8. 字符串
+  9. 嵌套列表解析
+  10. 数字
+  11. 整数、浮点数、复数
+  12. 集合
+  13. 集合运算
+
+【Module】(21 个)
+----------------------------------------
+  1. StringIO模块
+  2. _thread模块
+  3. asyncio模块
+  4. csv模块
+  5. datetime模块
+  6. hashlib模块
+  7. json模块
+  8. logging模块
+  9. math模块
+  10. operator模块
+  11. os模块文件与目录操作
+  12. pickle模块
+  13. queue模块
+  14. random模块
+  15. re模块
+  16. statistics模块
+  17. subprocess模块
+  18. sys模块
+  19. threading模块
+  20. time与calendar模块
+  21. urllib模块
+
+【Function】(6 个)
+----------------------------------------
+  1. for循环与range() (id: course_basic_ch_3_sec_1_kp_1)
+  2. input函数 (id: course_basic_ch_1_sec_1_kp_1_kp_1)
+  3. lambda与map、filter、reduce (id: course_basic_ch_4_sec_1_kp_0)
+  4. open函数与文件对象 (id: course_basic_ch_7_sec_0_kp_0)
+  5. print函数与格式化 (id: course_basic_ch_1_sec_1_kp_1_kp_0)
+  6. 生成器与yield (id: course_basic_ch_4_sec_5_kp_1)
+
+【Concept】(13 个)
+----------------------------------------
+  1. LEGB作用域查找规则 (id: course_basic_ch_6_sec_1_kp_1)
+  2. Markdown转换 (id: course_advanced_ch_7_sec_1_kp_0)
+  3. SMTP发送邮件 (id: course_advanced_ch_1_sec_2_kp_0)
+  4. XML解析 (id: course_advanced_ch_2_sec_0_kp_1)
+  5. 匿名函数 (id: course_basic_ch_4_sec_0_kp_2)
+  6. 局部、全局与内置命名空间 (id: course_basic_ch_6_sec_1_kp_0)
+  7. 属性与方法 (id: course_basic_ch_5_sec_0_kp_1)
+  8. 正则表达式 (id: course_advanced_ch_2_sec_1_kp_0)
+  9. 生成器推导式 (id: course_basic_ch_4_sec_2_kp_2)
+  10. 类与对象 (id: course_basic_ch_5_sec_0_kp_0)
+  11. 继承与多态 (id: course_basic_ch_5_sec_0_kp_2)
+  12. 网络编程 (id: course_advanced_ch_1_sec_0_kp_0)
+  13. 迭代器 (id: course_basic_ch_4_sec_5_kp_0)
+
+【ControlStructure】(8 个)
+----------------------------------------
+  1. break与continue (id: course_basic_ch_3_sec_1_kp_2_kp_0)
+  2. if, elif, else语句 (id: course_basic_ch_3_sec_0_kp_0)
+  3. match…case语句 (id: course_basic_ch_3_sec_0_kp_1)
+  4. pass与else子句 (id: course_basic_ch_3_sec_1_kp_2_kp_1)
+  5. try, except, else, finally (id: course_basic_ch_4_sec_6_kp_0)
+  6. while循环 (id: course_basic_ch_3_sec_1_kp_0)
+  7. with关键字 (id: course_basic_ch_4_sec_7_kp_0)
+  8. 循环控制语句 (id: course_basic_ch_3_sec_1_kp_2)
+
+【Operator】(8 个)
+----------------------------------------
+  1. 位运算符 (id: course_basic_ch_1_sec_2_kp_4)
+  2. 成员运算符 (id: course_basic_ch_1_sec_2_kp_5)
+  3. 比较运算符 (id: course_basic_ch_1_sec_2_kp_1)
+  4. 算术运算符 (id: course_basic_ch_1_sec_2_kp_0)
+  5. 赋值运算符 (id: course_basic_ch_1_sec_2_kp_2)
+  6. 身份运算符 (id: course_basic_ch_1_sec_2_kp_6)
+  7. 运算符与格式化 (id: 字符串_kp_1)
+  8. 逻辑运算符 (id: course_basic_ch_1_sec_2_kp_3)
+
+【Library】(11 个)
+----------------------------------------
+  1. BeautifulSoup
+  2. MongoDB
+  3. MySQL - PyMySQL驱动
+  4. MySQL - mysql-connector驱动
+  5. OpenAI
+  6. PyQt
+  7. Scrapy库
+  8. pyecharts模块
+  9. requests模块
+  10. selenium库
+  11. uWSGI安装配置
+
+【Tool】(3 个)
+----------------------------------------
+  1. VScode配置
+  2. pip
+  3. venv创建与管理
+
+======================================================================
+【课程结构】
+======================================================================
+
+课程: Python高级教程
+  章节: 核心标准库与内置功能
+    - 进程管理
+    - 并发与并行
+    - 安全与哈希
+    - 日期与时间处理
+    - 数学与随机运算
+    - 数据处理与序列化
+    - 系统交互与运行时
+
+课程: Python高级教程
+  章节: 网络与Web开发
+    - Web服务器与接口
+    - 邮件发送
+    - HTTP客户端
+    - 网络通信
+
+课程: Python高级教程
+  章节: 数据处理与文件格式
+    - 文本处理与匹配
+    - 结构化数据解析
+
+课程: Python高级教程
+  章节: 数据库交互
+    - 非关系型数据库
+    - 关系型数据库
+
+课程: Python高级教程
+  章节: 自动化与爬虫
+    - 浏览器自动化
+    - 爬虫框架
+    - 网页解析
+
+课程: Python高级教程
+  章节: 图形界面与可视化
+    - 数据可视化
+    - 图形用户界面
+
+课程: Python高级教程
+  章节: 人工智能与新兴应用
+    - 量化金融
+    - AI绘画
+    - AI模型调用
+
+课程: Python高级教程
+  章节: 开发工具与包管理
+    - 文档与日志
+    - 包管理工具
+
+课程: Python基础编程教程
+  章节: 一、 Python入门与环境
+    - 开发环境搭建
+    - Python语言概述
+
+课程: Python基础编程教程
+  章节: 二、 基础语法与结构
+    - 模块执行控制
+    - 运算符
+    - 编程初步
+    - 基本语法规则
+
+课程: Python基础编程教程
+  章节: 三、 数据类型
+    - 数据类型转换
+    - 具体数据类型详解
+    - 数据类型概述
+
+课程: Python基础编程教程
+  章节: 四、 流程控制
+    - 循环语句
+    - 条件控制
+
+课程: Python基础编程教程
+  章节: 五、 函数与高级特性
+    - 上下文管理
+    - 错误和异常处理
+    - 迭代器与生成器
+    - 类型注解
+    - 装饰器
+    - 推导式
+    - 函数式编程工具
+    - 函数基础
+
+课程: Python基础编程教程
+  章节: 六、 面向对象编程
+    - 面向对象基础
+
+课程: Python基础编程教程
+  章节: 七、 模块、包与命名空间
+    - 命名空间与作用域
+    - 模块
+
+课程: Python基础编程教程
+  章节: 八、 文件与操作系统交互
+    - 操作系统交互
+    - 文件操作
+
+课程: Python基础编程教程
+  章节: 九、 标准库与资源
+    - 学习资源推荐
+    - 常用标准库概览
+
+课程: Python基础编程教程
+  章节: 十、 开发工具与工程实践
+    - 数据结构进阶
+    - 虚拟环境
