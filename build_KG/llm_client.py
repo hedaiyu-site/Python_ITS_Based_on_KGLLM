@@ -27,7 +27,7 @@ from openai import OpenAI
 from typing import List, Dict, Optional
 import json
 
-API_KEY = "sk-b40dc8abd15446e1b36464a10be57eee"
+API_KEY = "your_api_key"
 BASE_URL = "https://dashscope.aliyuncs.com/compatible-mode/v1"
 MODEL_NAME = "qwen3.5-flash"
 

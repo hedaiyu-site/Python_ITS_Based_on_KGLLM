@@ -26,15 +26,15 @@ logger = logging.getLogger(__name__)
 
 NEO4J_URL = "bolt://localhost:7687"
 NEO4J_USER = "neo4j"
-NEO4J_PASSWORD = "hedaiyu123"
+NEO4J_PASSWORD = "your_neo4j_password"
 
 MYSQL_HOST = "localhost"
 MYSQL_PORT = 3306
 MYSQL_USER = "root"
-MYSQL_PASSWORD = "123456"
+MYSQL_PASSWORD = "your_mysql_password"
 MYSQL_DATABASE = "python_learning"
 
-LLM_API_KEY = "sk-b40dc8abd15446e1b36464a10be57eee"
+LLM_API_KEY = "your_api_key"
 LLM_BASE_URL = "https://dashscope.aliyuncs.com/compatible-mode/v1"
 LLM_MODEL = "qwen-plus"
 

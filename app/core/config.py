@@ -21,10 +21,10 @@ class Settings(BaseSettings):
     
     NEO4J_URL: str = Field(default="bolt://localhost:7687", alias="NEO4J_URL")
     NEO4J_USER: str = Field(default="neo4j", alias="NEO4J_USER")
-    NEO4J_PASSWORD: str = Field(default="hedaiyu123", alias="NEO4J_PASSWORD")
+    NEO4J_PASSWORD: str = Field(default="your_neo4j_password", alias="NEO4J_PASSWORD")
     NEO4J_DATABASE: str = Field(default="neo4j", alias="NEO4J_DATABASE")
     
-    LLM_API_KEY: str = Field(default="sk-b40dc8abd15446e1b36464a10be57eee", alias="LLM_API_KEY")
+    LLM_API_KEY: str = Field(default="your_api_key", alias="LLM_API_KEY")
     LLM_BASE_URL: str = Field(default="https://dashscope.aliyuncs.com/compatible-mode/v1", alias="LLM_BASE_URL")
     LLM_MODEL_NAME: str = Field(default="qwen-plus", alias="LLM_MODEL_NAME")
     LLM_TEMPERATURE: float = 0.7
@@ -33,10 +33,10 @@ class Settings(BaseSettings):
     MYSQL_HOST: str = Field(default="localhost", alias="MYSQL_HOST")
     MYSQL_PORT: int = Field(default=3306, alias="MYSQL_PORT")
     MYSQL_USER: str = Field(default="root", alias="MYSQL_USER")
-    MYSQL_PASSWORD: str = Field(default="123456", alias="MYSQL_PASSWORD")
+    MYSQL_PASSWORD: str = Field(default="your_mysql_password", alias="MYSQL_PASSWORD")
     MYSQL_DATABASE: str = Field(default="python_learning", alias="MYSQL_DATABASE")
     
-    JWT_SECRET_KEY: str = Field(default="HDY", alias="JWT_SECRET_KEY")
+    JWT_SECRET_KEY: str = Field(default="your-jwt-secret-key-change-in-production", alias="JWT_SECRET_KEY")
     JWT_ALGORITHM: str = "HS256"
     JWT_EXPIRATION_HOURS: int = 24
     

@@ -1,5 +1,5 @@
 知识图谱含≥8类核心知识节点，关系类型≥5种，知识覆盖率≥90%；
 neo4j_url:bolt://localhost:7687
 neo4j_user:neo4j
-neo4j_password:hedaiyu123
+neo4j_password:your_neo4j_password
 neo4j_database:neo4j

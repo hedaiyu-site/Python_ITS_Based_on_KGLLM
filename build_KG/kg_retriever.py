@@ -24,7 +24,7 @@ from typing import List, Dict, Optional
 
 NEO4J_URL = "bolt://localhost:7687"
 NEO4J_USER = "neo4j"
-NEO4J_PASSWORD = "hedaiyu123"
+NEO4J_PASSWORD = "your_neo4j_password"
 NEO4J_DATABASE = "neo4j"
 
 
